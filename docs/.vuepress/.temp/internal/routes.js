@@ -16,3 +16,20 @@ export const routes = Object.fromEntries([
   ["/6/%E8%B4%A6%E5%8F%B7%E9%97%AE%E9%A2%98.html", { loader: () => import(/* webpackChunkName: "账号问题.html" */"D:/AAA-Krin/Development/个人html开发/krin2024/docPage/docs/.vuepress/.temp/pages/6/账号问题.html.js"), meta: {"title":""} }],
   ["/404.html", { loader: () => import(/* webpackChunkName: "404.html" */"D:/AAA-Krin/Development/个人html开发/krin2024/docPage/docs/.vuepress/.temp/pages/404.html.js"), meta: {"title":""} }],
 ]);
+
+if (import.meta.webpackHot) {
+  import.meta.webpackHot.accept()
+  if (__VUE_HMR_RUNTIME__.updateRoutes) {
+    __VUE_HMR_RUNTIME__.updateRoutes(routes)
+  }
+  if (__VUE_HMR_RUNTIME__.updateRedirects) {
+    __VUE_HMR_RUNTIME__.updateRedirects(redirects)
+  }
+}
+
+if (import.meta.hot) {
+  import.meta.hot.accept(({ routes, redirects }) => {
+    __VUE_HMR_RUNTIME__.updateRoutes(routes)
+    __VUE_HMR_RUNTIME__.updateRedirects(redirects)
+  })
+}
