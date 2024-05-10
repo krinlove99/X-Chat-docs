@@ -22,10 +22,13 @@ jobs:
       uses: actions/setup-node@v3
       with:
         node-version: ${{ matrix.node-version }}
-        cache: pnpm
+        cache: 'npm'
 
-    - name: Clean pnpm cache
-      run: pnpm cache clean
+    - name: Install pnpm
+      run: npm install -g pnpm
+
+    - name: Verify pnpm installation
+      run: pnpm -v
 
     - name: Install dependencies
       run: pnpm i
