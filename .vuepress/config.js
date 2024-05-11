@@ -5,7 +5,7 @@ import { defineUserConfig } from 'vuepress'
 export default defineUserConfig({
     bundler: viteBundler(),
     base: '/X-Chat-docs/',
-    home:'docs/README.md',
+    home:'/README.md',
     footer: 'Copyright © 2024-BASETEC',
     theme: defaultTheme({
         docsBranch:'main',
