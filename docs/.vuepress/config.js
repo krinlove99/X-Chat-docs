@@ -4,7 +4,7 @@ import { defineUserConfig } from 'vuepress'
 
 export default defineUserConfig({
     bundler: viteBundler(),
-    base: '/X-Chat-docs/docs/',
+    base: '/docs/',
     home:'/1/X-Chat介绍.md',
     footer: 'Copyright © 2024-BASETEC',
     prevLink:true,
