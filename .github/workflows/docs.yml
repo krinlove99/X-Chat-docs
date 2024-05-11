@@ -38,7 +38,7 @@ jobs:
         uses: crazy-max/ghaction-github-pages@v3
         with:
           # deploy to gh-pages branch
-          target_branch: gh-pages
+          target_branch: gh-pages2
           # deploy the default output dir of VuePress
           build_dir: .vuepress/dist
         env:
