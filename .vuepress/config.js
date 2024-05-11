@@ -4,7 +4,7 @@ import { defineUserConfig } from 'vuepress'
 
 export default defineUserConfig({
     bundler: viteBundler(),
-    base: '/X-Chat-docs/',
+    base: '/',
     home:'/README.md',
     footer: 'Copyright © 2024-BASETEC',
     theme: defaultTheme({
@@ -14,7 +14,7 @@ export default defineUserConfig({
         prevLink:true,
         logo:'/images/lan1.png',
         navbar: [
-            { text: '文档首页', link: '/docs/1/X-Chat介绍.md' },
+            { text: '文档首页', link: '/README.md' },
             { text: 'X-Chat智能助理😍', link: 'https://xchat.rntec.top' },
             { text: 'X-Chat官网', link: 'https://rntec.top' },
             { text: '历史更新', link: 'https://rntec.top/loginfo.aspx' },
