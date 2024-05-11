@@ -1,4 +1,4 @@
-<template><div><h2 id="免登录-快速聊天-功能介绍-暂时下线" tabindex="-1"><a class="header-anchor" href="#免登录-快速聊天-功能介绍-暂时下线"><span>免登录“快速聊天”功能介绍（暂时下线）</span></a></h2>
+<template><div><h2 id="免登录-快速聊天-功能介绍" tabindex="-1"><a class="header-anchor" href="#免登录-快速聊天-功能介绍"><span>免登录“快速聊天”功能介绍</span></a></h2>
 <div class="custom-container warning"><p class="custom-container-title">警告</p>
 <p>该功能已暂时停止服务</p>
 </div>

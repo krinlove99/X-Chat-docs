@@ -18,7 +18,7 @@
 <td>常规意义的gpt-3.5-turbo，默认为16k模型</td>
 </tr>
 <tr>
-<td>gpt-3.5-turbo公益免费版[1]</td>
+<td>gpt-3.5-turbo公益免费版 <Badge type="warning" text="1" vertical="top" /></td>
 <td>0.01</td>
 <td>常规意义的gpt-3.5-turbo，默认为16k模型</td>
 </tr>
@@ -68,7 +68,7 @@
 <td>月之暗面旗下AI，支持图像及文档解析，支持在线联网搜索，最高100万上下文长度，不支持AI作图</td>
 </tr>
 <tr>
-<td>Moonshot Kimi公益免费版[2]</td>
+<td>Moonshot Kimi公益免费版 <Badge type="warning" text="2" vertical="top" /></td>
 <td>0.01</td>
 <td>月之暗面旗下AI，支持图像及文档解析，支持在线联网搜索，最高100万上下文长度，不支持AI作图</td>
 </tr>
@@ -78,7 +78,7 @@
 <td>阿里巴巴旗下AI，支持AI作图、图像及文档解析，支持在线联网搜索，最高100万上下文长度</td>
 </tr>
 <tr>
-<td>秘塔AI搜索[3]</td>
+<td>秘塔AI搜索 <Badge type="warning" text="3" vertical="top" /></td>
 <td>3</td>
 <td>聚合性新一代搜索引擎，提供全网或学术的简洁、深入、研究三种搜索模式</td>
 </tr>
@@ -137,29 +137,27 @@
 <tr>
 <td>default</td>
 <td>1</td>
-<td>新注册用户默认等级，可免费[4]使用 <code v-pre>公益免费版</code> 服务</td>
+<td>新注册用户默认等级，可免费 <Badge type="warning" text="4" vertical="top" /> 使用 <code v-pre>公益免费版</code> 服务</td>
 </tr>
 <tr>
 <td>VIP</td>
 <td>1</td>
-<td>通过<RouteLink to="/6/%E6%B4%BB%E5%8A%A8%E7%A6%8F%E5%88%A9%E3%80%81%E7%B3%BB%E7%BB%9F%E8%B5%A0%E9%80%81%E9%A2%9D%E5%BA%A6.html">活动福利、系统赠送（点此查看）</RouteLink>等非充值类场景获得额度的用户等级，可使用绝大部分的付费服务</td>
+<td>指通过 <RouteLink to="/6/%E6%B4%BB%E5%8A%A8%E7%A6%8F%E5%88%A9%E3%80%81%E7%B3%BB%E7%BB%9F%E8%B5%A0%E9%80%81%E9%A2%9D%E5%BA%A6.html">活动福利、系统赠送（点此查看）</RouteLink>等非充值类场景获得额度的用户等级。该等级用户可使用绝大部分的付费服务</td>
 </tr>
 <tr>
 <td>SVIP</td>
 <td>0.95</td>
-<td>通过实际充值获得额度的用户等级，可以使用所有付费服务（按月结算）</td>
+<td>指通过实际充值获得额度的用户等级。该等级可以使用所有付费服务</td>
 </tr>
 </tbody>
 </table>
 <h3 id="说明" tabindex="-1"><a class="header-anchor" href="#说明"><span>说明</span></a></h3>
-<p>[1]  <code v-pre>gpt-3.5</code> 系列模型中，只有 <code v-pre>gpt-3.5-turbo</code> 模型提供近无限量额度。该系列其他模型将按各自的倍率进行计费。</p>
-<p>[2] 带有 <code v-pre>公益免费版</code> 的模型开放 <code v-pre>default</code> 等级用户使用（ <code v-pre>VIP</code> 等级用户同样可以使用）。</p>
-<div class="custom-container warning"><p class="custom-container-title">注意</p>
+<Badge type="warning" text="1" vertical="middle" /> <code v-pre>gpt-3.5</code> 系列模型中，只有 <code v-pre>gpt-3.5-turbo</code> 模型提供近无限量额度。该系列其他模型将按各自的倍率进行计费。<br>
+<Badge type="warning" text="2" vertical="middle" />  带有 <code v-pre>公益免费版</code> 的模型开放 <code v-pre>default</code> 等级用户使用（ <code v-pre>VIP</code> 等级用户同样可以使用）。<div class="custom-container warning"><p class="custom-container-title">注意</p>
 <p><code v-pre>公益免费版</code> 模型的稳定性不做保证，X-Chat不会获取您的隐私数据，但不保证您的隐私数据不被其他服务提供商获取。</p>
 </div>
-<p>[3] 秘塔AI搜索提供全网或学术的简洁、深入、研究三种搜索模式。需要在使用时输入前缀来调用引擎，如“深入搜索：小米su7”。</p>
-<p>[4]X-Chat的 <code v-pre>免费使用</code> 指的是以超低倍率（如0.01）来实现近似免费。由于新注册用户将赠送 <code v-pre>100万额度</code> ，因此基本上可以做到无限使用。</p>
-<h3 id="额度计算公式" tabindex="-1"><a class="header-anchor" href="#额度计算公式"><span>额度计算公式</span></a></h3>
+<Badge type="warning" text="3" vertical="middle" /> 秘塔AI搜索提供全网或学术的 <code v-pre>简洁</code> 、 <code v-pre>深入</code> 、 <code v-pre>研究</code> 三种搜索模式。需要在使用时输入前缀来调用引擎，如 <code v-pre>深入搜索：小米su7</code> 。<br>
+<Badge type="warning" text="4" vertical="middle" /> X-Chat的 <code v-pre>免费使用</code> 指的是以超低倍率（如0.01）来实现近似免费。由于新注册用户将赠送 <code v-pre>100万额度</code> ，因此基本上可以做到无限使用。<h3 id="额度计算公式" tabindex="-1"><a class="header-anchor" href="#额度计算公式"><span>额度计算公式</span></a></h3>
 <div class="custom-container tip"><p class="custom-container-title">倍率说明</p>
 <p>以上介绍的 <code v-pre>倍率</code> 表示在每次对话 <code v-pre>Token消耗数</code> 基础上的倍率。</p>
 <p><code v-pre>Token消耗数</code> 用来衡量本次对话所出现的字数（包括对话字数及携带上下文的字数）。</p>

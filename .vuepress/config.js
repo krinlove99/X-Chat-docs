@@ -4,8 +4,10 @@ import { defineUserConfig } from 'vuepress'
 
 export default defineUserConfig({
     bundler: viteBundler(),
+    title: 'X-Chat使用文档',
     base: '/',
     home:'/README.md',
+    head: [['link', { rel: 'icon', href: '/images/lan1.png' }]],
     footer: 'Copyright © 2024-BASETEC',
     theme: defaultTheme({
         docsBranch:'main',
@@ -60,12 +62,12 @@ export default defineUserConfig({
                     {
                         text: '进阶功能', children: [
                             {
-                                text: '免登录“快速聊天”功能介绍（暂时下线）',
-                                link: '/docs/4/免登录“快速聊天”功能介绍（暂时下线）.md'
+                                text: '免登录“快速聊天”',
+                                link: '/docs/4/免登录“快速聊天”.md'
                             },
                             {
-                                text: '模型插件市场开放',
-                                link: '/docs/4/模型插件市场开放.md'
+                                text: '模型多模态功能',
+                                link: '/docs/4/模型多模态功能.md'
                             },
                             {
                                 text: 'X-Chat聊天记录云同步',
