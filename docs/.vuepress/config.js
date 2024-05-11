@@ -4,11 +4,12 @@ import { defineUserConfig } from 'vuepress'
 
 export default defineUserConfig({
     bundler: viteBundler(),
-    base: '/docs/',
+    base: '/X-Chat-docs/',
     home:'/1/X-Chat介绍.md',
     footer: 'Copyright © 2024-BASETEC',
     prevLink:true,
     theme: defaultTheme({
+        docsBranch:'main',
         logo:'/images/lan1.png',
         navbar: [
             { text: '文档首页', link: '/1/X-Chat介绍.md' },
