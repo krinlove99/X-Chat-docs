@@ -122,6 +122,11 @@
 <td>0.1</td>
 <td>“深度求索”旗下AI大模型，仅支持文本输入，提供媲美gpt-4的中文语境能力和编程能力</td>
 </tr>
+<tr>
+<td>语音合成</td>
+<td>5</td>
+<td>语音合成功能，包含所有语音模型及音色</td>
+</tr>
 </tbody>
 </table>
 <h3 id="会员体系介绍" tabindex="-1"><a class="header-anchor" href="#会员体系介绍"><span>会员体系介绍</span></a></h3>

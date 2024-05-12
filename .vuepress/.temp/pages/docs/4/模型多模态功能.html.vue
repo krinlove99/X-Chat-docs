@@ -3,7 +3,7 @@
 <ul>
 <li>支持视觉处理，包括图像识别和解析</li>
 <li>支持根据关键词绘图</li>
-<li>支持语音输入输出</li>
+<li>支持语音输入输出 (详见 <RouteLink to="/docs/4/%E8%AF%AD%E9%9F%B3%E5%90%88%E6%88%90.html">语音合成</RouteLink>)</li>
 <li>支持文档生成 <Badge type="tip" text="gpt-4 特色功能" vertical="top" /></li>
 </ul>
 <div class="custom-container tip"><p class="custom-container-title">文档生成 支持的文档格式</p>

@@ -62,12 +62,16 @@ export default defineUserConfig({
                     {
                         text: '进阶功能', children: [
                             {
-                                text: '免登录“快速聊天”',
-                                link: '/docs/4/免登录“快速聊天”.md'
-                            },
-                            {
                                 text: '✨ 模型多模态功能',
                                 link: '/docs/4/模型多模态功能.md'
+                            },
+                            {
+                                text: '✨ 语音合成',
+                                link: '/docs/4/语音合成.md'
+                            },
+                            {
+                                text: '免登录“快速聊天”',
+                                link: '/docs/4/免登录“快速聊天”.md'
                             },
                             {
                                 text: 'X-Chat聊天记录云同步',

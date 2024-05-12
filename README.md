@@ -12,18 +12,20 @@ X-Chat是BASETEC旗下基于人工智能大语言模型的聊天助手应用。
 如贵公司有下一步宣传推广计划，请与 `krinchao@gmail.com` 联系
 
 
-## 近期更新计划
+## 近期大型更新计划
 
-☑ `X-Chat使用文档` | 已完成 <Badge type="tip" text="2024-05-10" vertical="top" />
+✅ `X-Chat使用文档` | 已完成 <Badge type="tip" text="2024-05-10" vertical="top" />
 
-☐ 新版X-Chat官网构建，使用更快的架构
+✅ `X-Chat 聊天` UI优化 | 已完成 <Badge type="tip" text="2024-05-11" vertical="top" />
 
-☐ `X-Chat News`栏目设计
+⬜ 新版X-Chat官网构建，使用更快的架构
 
-☐ `X-Chat 微信公众号`
+⬜ `X-Chat News`栏目设计
 
-☐ 简化X-Chat注册和使用步骤
+⬜ `X-Chat 微信公众号`
 
-☑ `X-Chat 聊天` UI优化 | 已完成 <Badge type="tip" text="2024-05-11" vertical="top" />
+⬜ 简化X-Chat注册和使用步骤
+
+
 
 
