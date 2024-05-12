@@ -4,7 +4,7 @@
 <p>进入 <code v-pre>X-Chat聊天客户端</code> <a href="https://xchat.rntec.top" target="_blank" rel="noopener noreferrer">https://xchat.rntec.top<ExternalLinkIcon/></a>。</p>
 </li>
 <li>
-<p>在新的浏览器使用的用户可以随意发送一句话，系统将自动弹出提示，提醒登录。请点击 <code v-pre>用户 X-Chat API</code> ，并将刚刚复制的<code v-pre>令牌</code>填写在输入框中。<em>（请不要修改其他位置内容）</em>
+<p>在新的浏览器使用的用户可以随意发送一句话，系统将自动弹出提示，提醒登录。请点击 <code v-pre>用户 X-Chat API</code> ，并将刚刚复制的 <code v-pre>令牌</code> 填写在输入框中。<em>（请不要修改其他位置内容）</em>
 <img src="/source/2.png" alt="输入令牌"></p>
 </li>
 <li>

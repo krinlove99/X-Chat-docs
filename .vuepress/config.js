@@ -66,7 +66,7 @@ export default defineUserConfig({
                                 link: '/docs/4/免登录“快速聊天”.md'
                             },
                             {
-                                text: '模型多模态功能',
+                                text: '✨ 模型多模态功能',
                                 link: '/docs/4/模型多模态功能.md'
                             },
                             {
@@ -80,7 +80,7 @@ export default defineUserConfig({
                         text: '模型介绍',
                         children:[
                             {
-                                text: '模型倍率公示',
+                                text: '💦 模型倍率公示',
                                 link: '/docs/5/模型倍率公示.md',
                                 
                             }
@@ -95,10 +95,20 @@ export default defineUserConfig({
                                 
                             },
                             {
-                                text: 'Token奖励',
+                                text: '活动福利、系统赠送额度',
                                 link: '/docs/6/活动福利、系统赠送额度.md',
                                 
                             },
+                        ]
+                    },
+                    {
+                        text: '开发者支持',
+                        children:[
+                            {
+                                text: '搭建你的AI客户端',
+                                link: '/docs/7/搭建你的AI聊天.md',
+                                
+                            }
                         ]
                     },
 

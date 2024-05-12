@@ -1,5 +1,5 @@
 <template><div><h2 id="查询额度使用日志" tabindex="-1"><a class="header-anchor" href="#查询额度使用日志"><span>查询额度使用日志</span></a></h2>
-<p>用户可以在<code v-pre>X-Chat用户API授权中心</code>查看所有令牌的使用信息，包括：</p>
+<p>用户可以在 <code v-pre>X-Chat用户API授权中心</code> 查看所有令牌的使用信息，包括：</p>
 <ul>
 <li>每次对话的时间</li>
 <li>对话所用令牌名称</li>
