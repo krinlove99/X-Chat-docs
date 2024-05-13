@@ -4,7 +4,7 @@ import { defineUserConfig } from 'vuepress'
 
 export default defineUserConfig({
     bundler: viteBundler(),
-    title: 'X-Chat使用文档',
+    title: 'X-Chat 使用文档',
     base: '/',
     home:'/README.md',
     head: [['link', { rel: 'icon', href: '/images/lan1.png' }]],
@@ -26,7 +26,7 @@ export default defineUserConfig({
                 text: 'BASETEC X-Chat 使用文档',
                 children: [
                     {
-                        text: '介绍', 
+                        text: '🌐介绍', 
                         children: [{
                             text: 'X-Chat',
                             link: '/README.md'
@@ -101,6 +101,11 @@ export default defineUserConfig({
                             {
                                 text: '活动福利、系统赠送额度',
                                 link: '/docs/6/活动福利、系统赠送额度.md',
+                                
+                            },
+                            {
+                                text: '错误故障汇总',
+                                link: '/docs/6/故障解决方案.md',
                                 
                             },
                         ]
