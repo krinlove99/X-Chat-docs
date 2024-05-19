@@ -66,16 +66,21 @@ export default defineUserConfig({
                                 link: '/docs/4/模型多模态功能.md'
                             },
                             {
-                                text: '✨ 语音合成',
+                                text: '✨ 语音识别与合成',
                                 link: '/docs/4/语音合成.md'
+                            },
+                            {
+                                text: '✨ AI即时翻译服务',
+                                link: '/docs/4/AI即时翻译服务.md'
+                            },
+                            
+                            {
+                                text: 'X-Chat聊天记录云同步',
+                                link: '/docs/4/X-Chat聊天记录云同步.md'
                             },
                             {
                                 text: '免登录“快速聊天”',
                                 link: '/docs/4/免登录“快速聊天”.md'
-                            },
-                            {
-                                text: 'X-Chat聊天记录云同步',
-                                link: '/docs/4/X-Chat聊天记录云同步.md'
                             },
                         ],
                         

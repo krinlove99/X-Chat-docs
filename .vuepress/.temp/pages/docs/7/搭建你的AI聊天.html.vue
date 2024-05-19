@@ -25,6 +25,9 @@
 <li>模型支持</li>
 </ul>
 <p>如有定制需求，请联系 <code v-pre>krinchao@gmail.com</code></p>
+<div class="custom-container tip"><p class="custom-container-title">最后一次修改时间</p>
+<p>2024年5月17日</p>
+</div>
 </div></template>
 
 
