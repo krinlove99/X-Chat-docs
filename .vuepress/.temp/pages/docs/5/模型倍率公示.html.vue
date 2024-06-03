@@ -39,8 +39,18 @@
 </tr>
 <tr>
 <td>gpt-4</td>
-<td>10</td>
-<td>常规意义的gpt-4，可以调用文生图DALL·E3模型</td>
+<td><s>15</s> 5</td>
+<td>gpt-4 8k版本，支持文生图DALL·E3模型，支持生成文档、在线搜索、链接解析</td>
+</tr>
+<tr>
+<td>gpt-4-turbo</td>
+<td>8</td>
+<td>gpt-4-turbo 128k多模态版本，支持文生图DALL·E3模型、支持图像解析、生成文档、在线搜索、链接解析等</td>
+</tr>
+<tr>
+<td>⚡ gpt-4o</td>
+<td>5</td>
+<td>gpt-4o 128k多模态版本，支持文生图DALL·E3模型、支持图像解析、生成文档、在线搜索、链接解析等</td>
 </tr>
 <tr>
 <td>gpt-4-vision-preview</td>
@@ -48,14 +58,9 @@
 <td>图生文模型，可以识别用户上传的图像并总结内容</td>
 </tr>
 <tr>
-<td>dall-e-3</td>
-<td>20</td>
-<td>文生图模型，通过使用gpt系列模型来调用</td>
-</tr>
-<tr>
-<td>(已停运)google-gemini-pro</td>
-<td>1.5</td>
-<td>谷歌训练的gemini模型</td>
+<td>gemini-1.5-pro</td>
+<td>3</td>
+<td>谷歌gemini多模态模型，200k上下文，支持图像解析等</td>
 </tr>
 <tr>
 <td>(已停运)google-gemini-pro-vision</td>
@@ -74,7 +79,7 @@
 </tr>
 <tr>
 <td>通义千问</td>
-<td>10</td>
+<td><s>10</s> 5</td>
 <td>阿里巴巴旗下AI，支持AI作图、图像及文档解析，支持在线联网搜索，最高100万上下文长度</td>
 </tr>
 <tr>
@@ -83,13 +88,13 @@
 <td>聚合性新一代搜索引擎，提供全网或学术的简洁、深入、研究三种搜索模式</td>
 </tr>
 <tr>
-<td>智谱清言</td>
-<td>5</td>
+<td>⚡ 智谱清言</td>
+<td><s>5</s> 3</td>
 <td>清华大学AI智能工具，支持AI作图、图像及文档解析，支持在线联网搜索，最高100万上下文长度</td>
 </tr>
 <tr>
 <td>阶跃星辰(跃问)</td>
-<td>5</td>
+<td><s>5</s> 3</td>
 <td>国产AI大模型，支持图像及文档解析，支持在线联网搜索，最高100万上下文长度，不支持AI作图</td>
 </tr>
 <tr>
@@ -99,7 +104,7 @@
 </tr>
 <tr>
 <td>零一万物</td>
-<td>0.426</td>
+<td>0.5</td>
 <td>“李开复”带队的国产AI大模型，支持图像及文档解析，不支持AI作图</td>
 </tr>
 <tr>
@@ -113,8 +118,8 @@
 <td>讯飞旗下AI大模型，支持AI作图、图像及文档解析，最高100万上下文长度</td>
 </tr>
 <tr>
-<td>DeepSeek</td>
-<td>5</td>
+<td>⚡ DeepSeek</td>
+<td><s>5</s> 1.5</td>
 <td>“深度求索”旗下AI大模型，仅支持文本输入，提供媲美gpt-4的中文语境能力和编程能力</td>
 </tr>
 <tr>
@@ -153,6 +158,11 @@
 <td>VIP</td>
 <td>1</td>
 <td>指通过 <RouteLink to="/6/%E6%B4%BB%E5%8A%A8%E7%A6%8F%E5%88%A9%E3%80%81%E7%B3%BB%E7%BB%9F%E8%B5%A0%E9%80%81%E9%A2%9D%E5%BA%A6.html">活动福利、系统赠送（点此查看）</RouteLink>等非充值类场景获得额度的用户等级。该等级用户可使用绝大部分的付费服务</td>
+</tr>
+<tr>
+<td>VIP+</td>
+<td>1</td>
+<td>在BASETEC各种官方庆祝活动中获得的资格，可永久免费使用X-Chat服务。</td>
 </tr>
 <tr>
 <td>SVIP</td>

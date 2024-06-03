@@ -66,11 +66,11 @@ export default defineUserConfig({
                                 link: '/docs/4/模型多模态功能.md'
                             },
                             {
-                                text: '✨ 语音识别与合成',
+                                text: '语音识别与合成',
                                 link: '/docs/4/语音合成.md'
                             },
                             {
-                                text: '✨ AI即时翻译服务',
+                                text: 'AI即时翻译服务',
                                 link: '/docs/4/AI即时翻译服务.md'
                             },
                             

@@ -23,14 +23,30 @@
 <p>从 <code v-pre>BASETEC</code> 获取 <code v-pre>沉浸式翻译API接口</code> 。</p>
 </li>
 </ol>
-<p>具体方法：前往<a href="https://service.basetec.cn" target="_blank" rel="noopener noreferrer">BASETEC官网<ExternalLinkIcon/></a>，注册账户（与X-Chat用户信息互通，如已注册可直接登录），点击导航栏的 <code v-pre>项目</code> - <code v-pre>企业客户服务</code> ，找到 <code v-pre>沉浸式翻译接口</code> ，按步骤获取。</p>
-<div class="custom-container warning"><p class="custom-container-title">维护通知</p>
-<p>BASETEC官网架构升级中，上述为原站点步骤。</p>
-<p>新官网获取方法：注册账户（与X-Chat用户信息互通，如已注册可直接登录），点击导航栏的 <code v-pre>其他服务</code> - <code v-pre>客户增值服务</code> ，找到 <code v-pre>沉浸式翻译接口</code> ，按步骤获取。</p>
-</div>
+<p>具体方法：前往<a href="https://basetec.top" target="_blank" rel="noopener noreferrer">BASETEC官网<ExternalLinkIcon/></a>，注册账户（与X-Chat用户信息互通，如已注册可直接登录），点击导航栏的 <code v-pre>项目</code> / <code v-pre>工单支持</code> ，找到 <code v-pre>沉浸式翻译接口API接口权限申请</code> ，按提示获取。</p>
 <ol start="3">
 <li>进入沉浸式翻译设置，如下图；</li>
 </ol>
+<p><img src="/source/translate4.png" alt="翻译服务"></p>
+<ul>
+<li>
+<p>在左侧列表中选择 <code v-pre>基本设置</code> ，在右侧的 <code v-pre>翻译服务</code> 下拉列表中选择 <code v-pre>OpenAI</code> ；</p>
+</li>
+<li>
+<p>在 <code v-pre>APIKEY</code> 输入获取的翻译服务专属令牌，同时勾选 <code v-pre>输入自定义模型名称</code> ， 输入获取的专属模型；</p>
+</li>
+</ul>
+<div class="custom-container warning"><p class="custom-container-title">注意</p>
+<p>只有从BASETEC申请的指定令牌和模型才可用于翻译服务，普通令牌接入后将触发账户封禁！</p>
+</div>
+<ul>
+<li>
+<p>继续下划，点击 <code v-pre>展开更多自定义选项</code> ,在 <code v-pre>自定义API接口地址</code> 中输入获取的接口地址，最后划到顶部，点击 <code v-pre>点击测试服务</code>。如显示 <code v-pre>验证成功</code> ，即可关闭正常使用。</p>
+</li>
+<li>
+<p>如有必要，可点击左侧的 <code v-pre>悬浮球</code> 以打开浏览器悬浮快捷操作。</p>
+</li>
+</ul>
 </div></template>
 
 

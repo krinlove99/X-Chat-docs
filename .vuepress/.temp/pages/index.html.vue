@@ -8,10 +8,9 @@
 <h2 id="近期大型更新计划" tabindex="-1"><a class="header-anchor" href="#近期大型更新计划"><span>近期大型更新计划</span></a></h2>
 <p>✅ <code v-pre>X-Chat使用文档</code> | 已上线 <Badge type="tip" text="2024-05-10" vertical="top" /></p>
 <p>✅ <code v-pre>X-Chat 聊天客户端</code> UI优化 | 已完成 <Badge type="tip" text="2024-05-11" vertical="top" /></p>
-<p>⬜ 新版 <code v-pre>X-Chat官网</code> 构建，使用更快的架构， <code v-pre>X-Chat聊天客户端</code> 将集成至架构优化后的官网中，为用户提供更快捷的使用体验</p>
+<p>✅ 新版 <code v-pre>X-Chat官网</code> 构建，使用更快的架构， <code v-pre>X-Chat聊天客户端</code> 将集成至架构优化后的官网中，为用户提供更快捷的使用体验 | 已完成 <Badge type="tip" text="2024-06-03" vertical="top" /></p>
 <p>⬜ 新版 <code v-pre>X-Chat聊天客户端</code> 构建，具有更快的响应速度、更现代化的UI设计</p>
 <p>⬜ <code v-pre>X-Chat 微信公众号</code></p>
-<p>⬜ 简化X-Chat注册和使用步骤</p>
 </div></template>
 
 
