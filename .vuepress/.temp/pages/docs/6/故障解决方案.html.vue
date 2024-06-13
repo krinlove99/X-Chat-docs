@@ -1,6 +1,6 @@
 <template><div><h2 id="错误故障汇总" tabindex="-1"><a class="header-anchor" href="#错误故障汇总"><span>错误故障汇总</span></a></h2>
 <ol>
-<li>打开 <code v-pre>X-Chat 聊天客户端(xchat.rntec.top)</code> 时出现以下页面或内容：</li>
+<li>打开 <code v-pre>X-Chat 聊天客户端(basetec.top/xchat)</code> 时出现以下页面或内容：</li>
 </ol>
 <p><img src="/source/bug1.jpg" alt="应用程序错误"></p>
 <div class="custom-container danger"><p class="custom-container-title">错误提示具体内容</p>

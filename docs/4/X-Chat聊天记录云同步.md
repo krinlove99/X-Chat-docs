@@ -11,7 +11,7 @@
 
 
 ### 注意事项：
-1. 用户需要在 `https://xchat.rntec.top` 站点使用，其他站点将无法保证数据传输稳定性；
+1. 用户需要在 `https://basetec.top/xchat` 站点使用，其他站点将无法保证数据传输稳定性；
 
 2. 为了彻底地保护用户隐私，用户的聊天数据将不会存储在X-Chat的服务器，在同步时也不会经过X-Chat，因此在同步时需要注意：
 
@@ -22,7 +22,7 @@
 
 
 ### 使用方法：
-1. 进入提供同步服务的站点：[https://xchat.rntec.top](https://xchat.rntec.top)；
+1. 进入提供同步服务的站点：[https://basetec.top/xchat](https://basetec.top/xchat)；
 
 2. 点击左上角 `同步未开启` ，点击 `配置同步参数` ；
 

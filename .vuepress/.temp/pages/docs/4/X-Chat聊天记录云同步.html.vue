@@ -17,7 +17,7 @@
 <h3 id="注意事项" tabindex="-1"><a class="header-anchor" href="#注意事项"><span>注意事项：</span></a></h3>
 <ol>
 <li>
-<p>用户需要在 <code v-pre>https://xchat.rntec.top</code> 站点使用，其他站点将无法保证数据传输稳定性；</p>
+<p>用户需要在 <code v-pre>https://basetec.top/xchat</code> 站点使用，其他站点将无法保证数据传输稳定性；</p>
 </li>
 <li>
 <p>为了彻底地保护用户隐私，用户的聊天数据将不会存储在X-Chat的服务器，在同步时也不会经过X-Chat，因此在同步时需要注意：</p>
@@ -30,7 +30,7 @@
 <h3 id="使用方法" tabindex="-1"><a class="header-anchor" href="#使用方法"><span>使用方法：</span></a></h3>
 <ol>
 <li>
-<p>进入提供同步服务的站点：<a href="https://xchat.rntec.top" target="_blank" rel="noopener noreferrer">https://xchat.rntec.top<ExternalLinkIcon/></a>；</p>
+<p>进入提供同步服务的站点：<a href="https://basetec.top/xchat" target="_blank" rel="noopener noreferrer">https://basetec.top/xchat<ExternalLinkIcon/></a>；</p>
 </li>
 <li>
 <p>点击左上角 <code v-pre>同步未开启</code> ，点击 <code v-pre>配置同步参数</code> ；</p>

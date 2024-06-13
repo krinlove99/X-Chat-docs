@@ -17,9 +17,9 @@ export default defineUserConfig({
         logo:'/images/lan1.png',
         navbar: [
             { text: '文档首页', link: '/README.md' },
-            { text: 'X-Chat智能助理😍', link: 'https://xchat.rntec.top' },
-            { text: 'X-Chat官网', link: 'https://rntec.top' },
-            { text: '历史更新', link: 'https://rntec.top/loginfo.aspx' },
+            { text: 'X-Chat智能助理😍', link: 'https://basetec.top/xchat' },
+            { text: 'BASETEC官网', link: 'https://basetec.top' },
+            // { text: '历史更新', link: 'https://rntec.top/loginfo.aspx' },
         ],
         sidebar: [
             {
@@ -98,11 +98,11 @@ export default defineUserConfig({
                     {
                         text: '其他问题',
                         children:[
-                            {
-                                text: '账号问题',
-                                link: '/docs/6/账号问题.md',
+                            // {
+                            //     text: '账号问题',
+                            //     link: '/docs/6/账号问题.md',
                                 
-                            },
+                            // },
                             {
                                 text: '活动福利、系统赠送额度',
                                 link: '/docs/6/活动福利、系统赠送额度.md',

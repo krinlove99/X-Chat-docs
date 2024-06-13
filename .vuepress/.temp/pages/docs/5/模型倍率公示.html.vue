@@ -1,6 +1,6 @@
 <template><div><h2 id="模型倍率公示" tabindex="-1"><a class="header-anchor" href="#模型倍率公示"><span>模型倍率公示</span></a></h2>
 <div class="custom-container tip"><p class="custom-container-title">最新更新时间</p>
-<p>2024年5月12日20:42:43</p>
+<p>2024年6月1日20:42:43</p>
 </div>
 <h3 id="模型介绍" tabindex="-1"><a class="header-anchor" href="#模型介绍"><span>模型介绍</span></a></h3>
 <table>
@@ -162,7 +162,7 @@
 <tr>
 <td>VIP+</td>
 <td>1</td>
-<td>在BASETEC各种官方庆祝活动中获得的资格，可永久免费使用X-Chat服务。</td>
+<td>在BASETEC各种官方庆祝活动/服务内测/社区卓越贡献获得的资格，可永久免费使用X-Chat服务。</td>
 </tr>
 <tr>
 <td>SVIP</td>
