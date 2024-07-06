@@ -1,13 +1,9 @@
 ## 搭建你的AI聊天
 
 ### 在线体验
-[basetec.top/xchat](https://basetec.top/xchat)
+[X-Chat V2 ：basetec.top/xchat](https://basetec.top/xchat)
 
-### Docker-compose部署
-
-::: warning 通知
-项目已与2024年6月13日转为闭源，不再提供免费部署服务。如有需求请参考下方定制化支持。
-:::
+[X-Chat V3 ：agent.basetec.top](https://agent.basetec.top)
 
 ### 定制化支持
 

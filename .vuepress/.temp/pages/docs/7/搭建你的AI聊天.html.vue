@@ -1,10 +1,7 @@
 <template><div><h2 id="搭建你的ai聊天" tabindex="-1"><a class="header-anchor" href="#搭建你的ai聊天"><span>搭建你的AI聊天</span></a></h2>
 <h3 id="在线体验" tabindex="-1"><a class="header-anchor" href="#在线体验"><span>在线体验</span></a></h3>
-<p><a href="https://basetec.top/xchat" target="_blank" rel="noopener noreferrer">basetec.top/xchat<ExternalLinkIcon/></a></p>
-<h3 id="docker-compose部署" tabindex="-1"><a class="header-anchor" href="#docker-compose部署"><span>Docker-compose部署</span></a></h3>
-<div class="custom-container warning"><p class="custom-container-title">通知</p>
-<p>项目已与2024年6月13日转为闭源，不再提供免费部署服务。如有需求请参考下方定制化支持。</p>
-</div>
+<p><a href="https://basetec.top/xchat" target="_blank" rel="noopener noreferrer">X-Chat V2 ：basetec.top/xchat<ExternalLinkIcon/></a></p>
+<p><a href="https://agent.basetec.top" target="_blank" rel="noopener noreferrer">X-Chat V3 ：agent.basetec.top<ExternalLinkIcon/></a></p>
 <h3 id="定制化支持" tabindex="-1"><a class="header-anchor" href="#定制化支持"><span>定制化支持</span></a></h3>
 <p>X-Chat 提供以下定制服务：</p>
 <ul>

@@ -1,0 +1,16 @@
+import comp from "C:/Users/Administrator/Desktop/x-chat/docs/X-Chat-docs/.vuepress/.temp/pages/docs/3/语音合成.html.vue"
+const data = JSON.parse("{\"path\":\"/docs/3/%E8%AF%AD%E9%9F%B3%E5%90%88%E6%88%90.html\",\"title\":\"\",\"lang\":\"zh-CN\",\"frontmatter\":{},\"headers\":[{\"level\":2,\"title\":\"语音识别与合成\",\"slug\":\"语音识别与合成\",\"link\":\"#语音识别与合成\",\"children\":[{\"level\":3,\"title\":\"技术支持\",\"slug\":\"技术支持\",\"link\":\"#技术支持\",\"children\":[]},{\"level\":3,\"title\":\"特点\",\"slug\":\"特点\",\"link\":\"#特点\",\"children\":[]},{\"level\":3,\"title\":\"语音合成\",\"slug\":\"语音合成\",\"link\":\"#语音合成\",\"children\":[]},{\"level\":3,\"title\":\"语音识别\",\"slug\":\"语音识别\",\"link\":\"#语音识别\",\"children\":[]}]}],\"git\":{},\"filePathRelative\":\"docs/3/语音合成.md\"}")
+export { comp, data }
+
+if (import.meta.webpackHot) {
+  import.meta.webpackHot.accept()
+  if (__VUE_HMR_RUNTIME__.updatePageData) {
+    __VUE_HMR_RUNTIME__.updatePageData(data)
+  }
+}
+
+if (import.meta.hot) {
+  import.meta.hot.accept(({ data }) => {
+    __VUE_HMR_RUNTIME__.updatePageData(data)
+  })
+}
