@@ -1,1 +1,0 @@
-import{_ as t,c as e,o as a,a1 as r}from"./chunks/framework.7AAjiCkA.js";const h=JSON.parse('{"title":"AI搜索","description":"","frontmatter":{},"headers":[],"relativePath":"AI实验室/X-搜索.md","filePath":"AI实验室/X-搜索.md"}'),o={name:"AI实验室/X-搜索.md"},s=r("",5),c=[s];function i(_,n,p,l,m,A){return a(),e("div",null,c)}const E=t(o,[["render",i]]);export{h as __pageData,E as default};

@@ -1,1 +1,0 @@
-import{_ as a,c as t,o as e,a1 as o}from"./chunks/framework.7AAjiCkA.js";const m=JSON.parse('{"title":"活动福利、系统赠送额度","description":"","frontmatter":{},"headers":[],"relativePath":"other/活动福利.md","filePath":"other/活动福利.md"}'),l={name:"other/活动福利.md"},c=o("",11),i=[c];function s(r,d,h,n,_,p){return e(),t("div",null,i)}const k=a(l,[["render",s]]);export{m as __pageData,k as default};
