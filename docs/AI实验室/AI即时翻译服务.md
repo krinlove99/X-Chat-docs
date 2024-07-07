@@ -3,7 +3,7 @@
 ### 下一代翻译，何止是翻译
 
 
-![翻译服务](/source/translate3.gif)
+![翻译服务](https://raw.gitmirror.com/krinlove99/pic/main/basetec/translate3.gif)
 
 随着人工智能技术的不断发展，AI对于语言领域的识别同样是发展迅猛。
 
