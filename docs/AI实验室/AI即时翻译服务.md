@@ -3,7 +3,7 @@
 ### 下一代翻译，何止是翻译
 
 
-![翻译服务](../source/translate3.gif)
+![翻译服务](/source/translate3.gif)
 
 随着人工智能技术的不断发展，AI对于语言领域的识别同样是发展迅猛。
 
@@ -32,7 +32,7 @@ BASETEC为所有注册用户提供免费的接口。
 
 3. 进入沉浸式翻译设置，如下图；
 
-![翻译服务](../source/translate4.png)
+![翻译服务](/source/translate4.png)
 
 - 在左侧列表中选择 `基本设置` ，在右侧的 `翻译服务` 下拉列表中选择 `OpenAI` ；
 
