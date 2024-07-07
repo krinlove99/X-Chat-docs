@@ -1,0 +1,1 @@
+import{_ as a,c as e,o as t,a1 as i}from"./chunks/framework.7AAjiCkA.js";const u=JSON.parse('{"title":"AI实验室","description":"","frontmatter":{},"headers":[],"relativePath":"快速使用/AI实验室.md","filePath":"快速使用/AI实验室.md"}'),o={name:"快速使用/AI实验室.md"},s=i("",10),r=[s];function l(n,c,d,_,f,h){return t(),e("div",null,r)}const A=a(o,[["render",l]]);export{u as __pageData,A as default};

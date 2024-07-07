@@ -1,0 +1,1 @@
+import{_ as a,c as i,o as t,a1 as e}from"./chunks/framework.7AAjiCkA.js";const u=JSON.parse('{"title":"V3 客户端介绍","description":"","frontmatter":{},"headers":[],"relativePath":"V3/V3 客户端功能.md","filePath":"V3/V3 客户端功能.md"}'),l={name:"V3/V3 客户端功能.md"},r=e("",20),o=[r];function c(s,n,p,h,m,_){return t(),i("div",null,o)}const b=a(l,[["render",c]]);export{u as __pageData,b as default};
