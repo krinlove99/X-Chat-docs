@@ -4,10 +4,67 @@ BASETEC-AI实验室于2024年6月26日正式推出，目前AI实验室处于测�
 
 :::
 
-Stable Diffusion生图服务调用云端数据接口，可以在线创作专业图像。
+Stable Diffusion生图服务调用云端数据接口，可以在线创作专业图像及永久化云端存储。
 
-根据测试进度，我们将逐渐上线其他的SD模型，以及增加多条带宽及服务器设备。
+## 模型支持
 
+<div>
+<table>
+  <tr>
+    <th>类别</th>
+    <th>功能</th>
+    <th>名称</th>
+    <th>规划</th>
+  </tr>
+  <tr>
+    <td rowspan="8">图片生成</td>
+    <td>文生图</td>
+    <td>stabilityai/stable-diffusion-3-medium</td>
+    <td>已上线，<a href="https://basetec.top/user/ai-sd" target="_blank">前往使用</a> </td>
+  </tr>
+  <tr>
+    <td>文生图</td>
+    <td>stabilityai/stable-diffusion-xl-base-1.0</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>文生图</td>
+    <td>stabilityai/stable-diffusion-2-1</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>图生图</td>
+    <td>腾讯TencentARC/PhotoMaker</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>图生图</td>
+    <td>InstantX/InstantID</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>图生图</td>
+    <td>字节跳动ByteDance/SDXL-Lightning</td>
+    <td>即将公测</td>
+  </tr>
+  <tr>
+    <td>文生图</td>
+    <td>stabilityai/sdxl-turbo</td>
+    <td>即将公测</td>
+  </tr>
+  <tr>
+    <td>文生图</td>
+    <td>stabilityai/sd-turbo</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>视频生成</td>
+    <td>文生视频</td>
+    <td>stabilityai/stable-diffusion-3-medium</td>
+    <td>即将公测</td>
+  </tr>
+</table>
+</div>
 
 ## 使用方法
 

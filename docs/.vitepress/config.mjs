@@ -42,7 +42,7 @@ export default defineConfig({
       {
         text: 'AI实验室',
         items: [
-          { text: 'Stable Diffusion', link: '/AI实验室/sd' },
+          { text: '图片创作服务', link: '/AI实验室/sd' },
           { text: 'X-搜索(AI搜索)', link: '/AI实验室/X-搜索' },
           { text: 'AI即时翻译服务', link: '/AI实验室/AI即时翻译服务' },
         ],
