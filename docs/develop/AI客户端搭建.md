@@ -10,12 +10,15 @@ BASETEC将于2024年8月1日起推出《企业AGC出海计划》服务支持，�
   <tr>
     <th>类别</th>
     <th>服务名称</th>
+    <th>在线体验</th>
   </tr>
   <tr>
     <td>AI聊天</td>
-    <td>提供全球所有大模型，型号详见上方文档介绍<br/>
+    <td>提供全球所有大模型，型号详见上方文档介绍
 
-在线体验:
+
+</td>
+<td>
 
 [X-Chat V2 ：basetec.top/xchat](https://basetec.top/xchat)
 
@@ -25,29 +28,42 @@ BASETEC将于2024年8月1日起推出《企业AGC出海计划》服务支持，�
   <tr>
     <td rowspan="3">AGC</td>
     <td>AI图片生成服务，型号详见上方文档介绍</td>
+<td >
+
+[AI实验室 ：basetec.top/user/ai-sd](https://basetec.top/user/ai-sd)
+
+</td>
+
   </tr>
   <tr>
     <td>AI音频生成服务，型号详见上方文档介绍</td>
+     <td></td>
   </tr>
   <tr>
     <td>AI视频生成服务，型号详见上方文档介绍</td>
+     <td></td>
   </tr>
   <tr>
     <td rowspan="4">开发</td>
     <td>AI聊天客户端定制化开发</td>
+     <td></td>
   </tr>
   <tr>
     <td>AGC创作服务UI可视化开发</td>
+     <td></td>
   </tr>
   <tr>
     <td>API开放平台定制化开发</td>
+     <td></td>
   </tr>
   <tr>
     <td>官网融合开发</td>
+     <td></td>
   </tr>
   <tr>
     <td>运维</td>
     <td>系统稳定性运维、技术支持、模型维护</td>
+     <td></td>
   </tr>
 </table>
 </div>

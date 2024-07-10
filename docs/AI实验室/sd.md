@@ -25,22 +25,22 @@ Stable Diffusion生图服务调用云端数据接口，可以在线创作专业�
   <tr>
     <td>文生图</td>
     <td>stabilityai/stable-diffusion-xl-base-1.0</td>
-    <td></td>
+    <td>即将公测</td>
   </tr>
   <tr>
     <td>文生图</td>
     <td>stabilityai/stable-diffusion-2-1</td>
-    <td></td>
+    <td>即将公测</td>
   </tr>
   <tr>
     <td>图生图</td>
     <td>腾讯TencentARC/PhotoMaker</td>
-    <td></td>
+    <td>即将公测</td>
   </tr>
   <tr>
     <td>图生图</td>
     <td>InstantX/InstantID</td>
-    <td></td>
+    <td>即将公测</td>
   </tr>
   <tr>
     <td>图生图</td>
@@ -55,14 +55,14 @@ Stable Diffusion生图服务调用云端数据接口，可以在线创作专业�
   <tr>
     <td>文生图</td>
     <td>stabilityai/sd-turbo</td>
-    <td></td>
+    <td>即将公测</td>
   </tr>
-  <tr>
+  <!-- <tr>
     <td>视频生成</td>
     <td>文生视频</td>
     <td>stabilityai/stable-diffusion-3-medium</td>
     <td>即将公测</td>
-  </tr>
+  </tr> -->
 </table>
 </div>
 
