@@ -21,6 +21,7 @@ export default defineConfig({
           { text: 'X-Chat V2 聊天助手', link: '/快速使用/X-Chat V2 聊天助手' },
           { text: '⚡X-Chat V3 聊天助手', link: '/快速使用/X-Chat V3 聊天助手' },
           { text: '⚡AI实验室', link: '/快速使用/AI实验室' },
+          { text: '合作', link: '/快速使用/企业合作' },
         ],
       },
       {
@@ -57,7 +58,6 @@ export default defineConfig({
       {
         text: '开发者支持',
         items: [
-          { text: '搭建你的AI客户端', link: '/develop/AI客户端搭建' },
           { text: '端点调用', link: '/develop/point' },
         ],
       },

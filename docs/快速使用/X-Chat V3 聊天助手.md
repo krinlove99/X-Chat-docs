@@ -1,17 +1,14 @@
 # X-Chat V3 聊天助手
 
-X-Chat V3 聊天助手是为BASETEC普通用户提供的X-Chat聊天版本，绑定BASETEC用户体系，采用账户余额制。
+::: tip AI聊天目前有V2和V3两个版本
+- X-Chat V2 适合有二次分发（售卖）需求的用户/组织，采用令牌发卡制，即通过为用户售卖卡密来使用AI聊天服务。同时也对普通用户提供服务，均提供API后台进行审计及管理。
 
-同时面向专业用户及企业组织，提供负载均衡、API分发、团队组织及客户管理、预算决策、路由管理、用量审计等专业功能。
-
-::: danger 注意
- `X-Chat V3 聊天助手` 目前在部分用户的iOS及iPadOS系统上存在bug，我们正在努力修复，如有影响，请使用X-Chat V2 版本。
-
+- X-Chat V3 （个人用户选它就对啦）是为本站用户提供的AI聊天服务，绑定BASETEC用户体系，采用账户余额制。该版本同时面向专业用户及企业组织，提供负载均衡、API分发、团队组织及客户管理、预算决策、路由管理、用量审计等专业功能。
 :::
 
 ## 使用方式
 
-点击前往[X-Chat V3](https://agent.basetec.top/)，或在BASETEC官网导航菜单栏中选择 `X-CHAT` 。
+点击前往 [X-Chat V3：https://agent.basetec.top](https://agent.basetec.top)，或在BASETEC官网导航菜单栏中选择 `X-CHAT` 。
 
 登录您的BASETEC账户，即可开始使用X-Chat V3 聊天助手。
 
