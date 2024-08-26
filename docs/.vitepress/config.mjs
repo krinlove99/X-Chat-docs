@@ -38,6 +38,7 @@ export default defineConfig({
         items: [
           { text: 'V3 客户端功能', link: '/V3/V3 客户端功能' },
           { text: 'V3 模型介绍', link: '/V3/V3 模型介绍' },
+          { text: 'V3 特色功能', link: '/V3/特色功能' },
         ],
       },
       {

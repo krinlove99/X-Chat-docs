@@ -21,12 +21,20 @@ hero:
 #   - title: Feature C
 #     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
 ---
+<!-- <div style="width:200px;margin-left:auto;">
+
 ![BASETEC 徽标](/images/basetec_cir.png)
+</div> -->
+
 ## BASETEC AI矩阵
 
-X-Chat是BASETEC旗下基于人工智能大语言模型的聊天助手应用。同时基于AI服务，为具有商用需求的企业组织、开发者及一定规模的用户提供相应的API服务及建站和商业化支持。
+BASETEC拥有多种AGC服务：AI聊天、AI搜索、API开放平台、AI翻译、AI音频/图像/视频创作等服务。
 
-目前，BASETEC拥有多种AGC服务：AI聊天、AI搜索、API开放平台、AI翻译、AI音频/图像/视频创作等服务。
+BASETEC提供专业的AGC落地解决方案，同时致力于AI技术的普及和推广，并为用户提供一定的公益服务。
+
+<!-- X-Chat是BASETEC旗下基于人工智能大语言模型的聊天助手应用。同时基于AI服务，为具有商用需求的企业组织、开发者及一定规模的用户提供相应的API服务及建站和商业化支持。 -->
+
+
 
 ## 合作声明
 
@@ -36,17 +44,13 @@ X-Chat是BASETEC旗下基于人工智能大语言模型的聊天助手应用。�
 
 如贵公司有下一步宣传推广计划，请与我们联系！
 
-首席运维师：krinchao@gmail.com
-
 商务合作：business@basetec.top
 
 支持及投诉：support@basetec.top
 
 
 
-## 近期大型更新计划
-
-✅ `X-Chat使用文档` | 已上线 <Badge type="tip" text="2024-05-10" vertical="top" />
+<!-- ## 近期大型更新计划
 
 ✅ `X-Chat 聊天客户端` UI优化 | 已完成 <Badge type="tip" text="2024-05-11" vertical="top" />
 
@@ -54,7 +58,9 @@ X-Chat是BASETEC旗下基于人工智能大语言模型的聊天助手应用。�
 
 ✅ 新版 `X-Chat V3 聊天客户端` 构建，具有更快的响应速度、更现代化的UI设计 <Badge type="tip" text="2024-06-20" vertical="top" />
 
-⬜ `X-Chat 微信公众号`
+✅  `AI实验室` 已上线，提供专业的AGC媒体创作服务 <Badge type="tip" text="2024-07-20" vertical="top" />
+
+⬜ `X-Chat 微信公众号` -->
 
 
 
