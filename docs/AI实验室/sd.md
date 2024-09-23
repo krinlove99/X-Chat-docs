@@ -17,19 +17,24 @@ AI实验室-图像创作服务调用云端数据接口，可以在线创作专�
     <th>规划</th>
   </tr>
   <tr>
-    <td rowspan="20">图片生成</td>
+    <td rowspan="21">图片生成</td>
     <td>文生图</td>
-    <td>stabilityai/stable-diffusion-3-medium</td>
+    <td><Badge type="tip" text="推荐" vertical="top" /> Flux.1</td>
     <td>已上线，<a href="https://basetec.top/ailab/ai-sd" target="_blank">前往使用</a> </td>
   </tr>
   <tr>
     <td>文生图</td>
-    <td>(推荐)stabilityai/realvisxlV40</td>
+    <td><Badge type="tip" text="推荐" vertical="top" /> stabilityai/stable-diffusion-3-medium</td>
     <td>已上线，<a href="https://basetec.top/ailab/ai-sd" target="_blank">前往使用</a> </td>
   </tr>
   <tr>
     <td>文生图</td>
-    <td>(推荐)stabilityai/realismEngine_v10</td>
+    <td><Badge type="tip" text="推荐" vertical="top" />  stabilityai/realvisxlV40</td>
+    <td>已上线，<a href="https://basetec.top/ailab/ai-sd" target="_blank">前往使用</a> </td>
+  </tr>
+  <tr>
+    <td>文生图</td>
+    <td><Badge type="tip" text="推荐" vertical="top" /> stabilityai/realismEngine_v10</td>
     <td>已上线，<a href="https://basetec.top/ailab/ai-sd" target="_blank">前往使用</a> </td>
   </tr>
   <tr>
@@ -39,7 +44,7 @@ AI实验室-图像创作服务调用云端数据接口，可以在线创作专�
   </tr>
   <tr>
     <td>文生图</td>
-    <td>(推荐)stabilityai/dreamshaperXL10_alpha2</td>
+    <td><Badge type="tip" text="推荐" vertical="top" /> stabilityai/dreamshaperXL10_alpha2</td>
     <td>已上线，<a href="https://basetec.top/ailab/ai-sd" target="_blank">前往使用</a> </td>
   </tr>
   <tr>

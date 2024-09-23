@@ -19,8 +19,8 @@ AI实验室-音乐创作服务调用云端数据接口，可以在线创作音�
    <tr>
     <td rowspan="1">音乐生成</td>
     <td>文生音乐</td>
-    <td>SunoAI</td>
-    <td>内测中，<a href="https://basetec.top/xchat" target="_blank">前往使用</a> </td>
+    <td>MiniMax</td>
+    <td>已上线，<a href="https://basetec.top/ailab/ai-music" target="_blank">前往使用</a>  </td>
   </tr>
   <!-- <tr>
     <td>视频生成</td>

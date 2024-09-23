@@ -27,9 +27,9 @@ export default defineConfig({
       {
         text: 'X-Chat AI聊天',
         items: [
-          { text: 'V3 客户端功能', link: '/V3/V3 客户端功能' },
-          { text: 'V3 模型介绍', link: '/V3/V3 模型介绍' },
-          { text: 'V3 特色功能', link: '/V3/特色功能' },
+          { text: '客户端简介', link: '/V3/V3 客户端功能' },
+          { text: '模型介绍', link: '/V3/V3 模型介绍' },
+          { text: '特色功能', link: '/V3/特色功能' },
         ],
       },
       {
@@ -38,6 +38,7 @@ export default defineConfig({
           { text: '图片创作服务', link: '/AI实验室/sd' },
           { text: '视频创作服务', link: '/AI实验室/video' },
           { text: '音乐创作服务', link: '/AI实验室/music' },
+          { text: '语音创作服务', link: '/AI实验室/voice' },
           { text: 'X-搜索(AI搜索)', link: '/AI实验室/X-搜索' },
           { text: 'AI即时翻译服务', link: '/AI实验室/AI即时翻译服务' },
           { text: 'AI智能语音助手', link: '/AI实验室/aihelper' },
@@ -46,10 +47,10 @@ export default defineConfig({
       {
         text: 'BASETEC AI(商业版)',
         items: [
-          { text: 'X-Chat介绍', link: '/V2/enterprise' },
-          { text: 'V2 模型介绍', link: '/V2/V2 模型介绍' },
-          { text: 'V2 模型进阶功能', link: '/V2/V2 模型进阶功能' },
-          { text: 'V2 错误故障汇总', link: '/V2/V2 错误故障汇总' },
+          { text: 'API开放平台', link: '/V2/enterprise' },
+          { text: '可调用的模型介绍', link: '/V2/V2 模型介绍' },
+          { text: '进阶功能', link: '/V2/V2 模型进阶功能' },
+          { text: '错误故障汇总', link: '/V2/V2 错误故障汇总' },
         ],
       },
       {

@@ -20,7 +20,7 @@ AI实验室-视频创作服务调用云端数据接口，可以在线创作视�
     <td rowspan="1">视频生成</td>
     <td>文生视频</td>
     <td>智谱清影</td>
-    <td>即将公测</td>
+    <td>已上线，<a href="https://basetec.top/ailab/ai-video" target="_blank">前往使用</a> </td>
   </tr>
   <!-- <tr>
     <td>视频生成</td>
