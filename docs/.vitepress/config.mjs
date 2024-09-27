@@ -48,7 +48,7 @@ export default defineConfig({
         text: 'BASETEC AI(商业版)',
         items: [
           { text: 'API开放平台', link: '/V2/enterprise' },
-          { text: '可调用的模型介绍', link: '/V2/V2 模型介绍' },
+          { text: 'API调用支持模型', link: '/V2/V2 模型介绍' },
           { text: '进阶功能', link: '/V2/V2 模型进阶功能' },
           { text: '错误故障汇总', link: '/V2/V2 错误故障汇总' },
         ],

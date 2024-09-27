@@ -72,7 +72,7 @@ AI实验室-图像创作服务调用云端数据接口，可以在线创作专�
     <td>stabilityai/turbovisionXL_v431</td>
     <td>已上线，<a href="https://basetec.top/ailab/ai-sd" target="_blank">前往使用</a> </td>
   </tr>
-  <tr>
+  <!-- <tr>
     <td>文生图</td>
     <td>stabilityai/stable-diffusion-xl-base-1.0</td>
     <td>即将公测</td>
@@ -91,7 +91,7 @@ AI实验室-图像创作服务调用云端数据接口，可以在线创作专�
     <td>文生图</td>
     <td>stabilityai/sd-turbo</td>
     <td>即将公测</td>
-  </tr>
+  </tr> -->
   <tr>
     <td>图生图</td>
     <td>stabilityai/sd-2.1</td>
@@ -107,7 +107,7 @@ AI实验室-图像创作服务调用云端数据接口，可以在线创作专�
     <td>stabilityai/sd-XL</td>
     <td>已上线，<a href="https://basetec.top/ailab/ai-sd" target="_blank">前往使用</a> </td>
   </tr>
-  <tr>
+  <!-- <tr>
     <td>图生图</td>
     <td>腾讯TencentARC/PhotoMaker</td>
     <td>即将公测</td>
@@ -121,7 +121,7 @@ AI实验室-图像创作服务调用云端数据接口，可以在线创作专�
     <td>图生图</td>
     <td>字节跳动ByteDance/SDXL-Lightning</td>
     <td>即将公测</td>
-  </tr>
+  </tr> -->
 </table>
 </div>
 
