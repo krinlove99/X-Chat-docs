@@ -98,10 +98,10 @@ AI实验室-图像创作服务调用云端数据接口，可以在线创作专�
     <td>已上线，<a href="https://basetec.top/ailab/ai-sd" target="_blank">前往使用</a> </td>
   </tr>
   <tr>
-    <td>图生图</td>
+    <!-- <td>图生图</td>
     <td>stabilityai/sd-XL Lighting</td>
     <td>已上线，<a href="https://basetec.top/ailab/ai-sd" target="_blank">前往使用</a> </td>
-  </tr>
+  </tr> -->
   <tr>
     <td>图生图</td>
     <td>stabilityai/sd-XL</td>
