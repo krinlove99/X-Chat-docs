@@ -17,7 +17,7 @@ AI实验室-图像创作服务调用云端数据接口，可以在线创作专�
     <th>规划</th>
   </tr>
   <tr>
-    <td rowspan="21">图片生成</td>
+    <td rowspan="22">图片生成</td>
     <td>文生图</td>
     <td><Badge type="tip" text="推荐" vertical="top" /> Flux.1</td>
     <td>已上线，<a href="https://basetec.top/ailab/ai-sd" target="_blank">前往使用</a> </td>
@@ -25,6 +25,11 @@ AI实验室-图像创作服务调用云端数据接口，可以在线创作专�
   <tr>
     <td>文生图</td>
     <td><Badge type="tip" text="推荐" vertical="top" /> stabilityai/stable-diffusion-3-medium</td>
+    <td>已上线，<a href="https://basetec.top/ailab/ai-sd" target="_blank">前往使用</a> </td>
+  </tr>
+   <tr>
+    <td>文生图</td>
+    <td><Badge type="tip" text="推荐" vertical="top" />  SD1X多模型聚合</td>
     <td>已上线，<a href="https://basetec.top/ailab/ai-sd" target="_blank">前往使用</a> </td>
   </tr>
   <tr>
@@ -97,8 +102,8 @@ AI实验室-图像创作服务调用云端数据接口，可以在线创作专�
     <td>stabilityai/sd-2.1</td>
     <td>已上线，<a href="https://basetec.top/ailab/ai-sd" target="_blank">前往使用</a> </td>
   </tr>
-  <tr>
-    <!-- <td>图生图</td>
+  <!-- <tr>
+    <td>图生图</td>
     <td>stabilityai/sd-XL Lighting</td>
     <td>已上线，<a href="https://basetec.top/ailab/ai-sd" target="_blank">前往使用</a> </td>
   </tr> -->
@@ -163,6 +168,18 @@ AI实验室-图像创作服务调用云端数据接口，可以在线创作专�
     <td>种子</td>
     <td>种子是一个随机数，用于初始化生成过程。理论上相同的种子会生成相同的图片，这对于复现结果非常有用。</td>
   </tr>
+    <tr>
+    <td>精校模型</td>
+    <td>针对某一领域/风格等类别而训练的模型，在该领域/风格具有较好的效果。</td>
+  </tr>
+  <tr>
+    <td>风格</td>
+    <td>对于某些特定模型，可以另行规定所生成图片的实际风格。</td>
+  </tr>
+   <tr>
+    <td>图片细节放大算法</td>
+    <td>为生成的图片提供后期细节和质量放大的算法。</td>
+  </tr>
    <tr>
     <td>指导尺度</td>
     <td>模型对提示词的遵循程度。较高的值会使生成的图片更接近提示词的描述，但可能会牺牲一些创造性；较低的值则允许模型更多地自由发挥，这个值一般为7，表示适中。</td>
@@ -187,6 +204,7 @@ AI实验室-图像创作服务调用云端数据接口，可以在线创作专�
     <td>Batch Size</td>
     <td>决定每次迭代生成图片的数量。较大的批量大小可以加快生成速度，但也会增加性能需求和失败率。</td>
   </tr>
+
   </table>
 
 
