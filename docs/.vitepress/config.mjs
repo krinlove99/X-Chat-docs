@@ -2,8 +2,8 @@ import { defineConfig } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  title: "BASETEC AI 使用文档",
-  description: "BASETEC AI 使用文档",
+  title: "Arcnix AI 使用文档",
+  description: "Arcnix AI 使用文档",
   head: [['link', { rel: 'icon', href: '/images/lan1.ico' }]],
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
@@ -45,7 +45,7 @@ export default defineConfig({
         ],
       },
       {
-        text: 'BASETEC AI(商业版)',
+        text: 'Arcnix AI(商业版)',
         items: [
           { text: 'API开放平台', link: '/V2/enterprise' },
           { text: 'API调用支持模型', link: '/V2/V2 模型介绍' },
@@ -69,7 +69,7 @@ export default defineConfig({
     ],
     footer: {
 
-      copyright: 'Copyright © 2019-2024 BASETEC. All rights reserved'
+      copyright: 'Copyright © 2019-2024 Arcnix 智弧互联科技. All rights reserved'
     }
 
     // socialLinks: [

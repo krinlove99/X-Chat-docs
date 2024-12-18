@@ -3,7 +3,7 @@
 layout: home
 
 hero:
-  name: "BASETEC AI 使用文档"
+  name: "Arcnix AI 使用文档"
   # text: "使用文档"
   # tagline: My great project tagline
   actions:
@@ -11,8 +11,8 @@ hero:
       text: 查看使用文档
       link: /快速使用/注册账户
     - theme: alt
-      text: 前往BASETEC
-      link: 'https://basetec.top' 
+      text: 前往Arcnix 智弧互联科技
+      link: 'https://arcnix.com' 
 # features:
 #   - title: Feature A
 #     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
@@ -23,16 +23,16 @@ hero:
 ---
 <!-- <div style="width:200px;margin-left:auto;">
 
-![BASETEC 徽标](/images/basetec_cir.png)
+![Arcnix 徽标](/images/basetec_cir.png)
 </div> -->
 
-## BASETEC AI矩阵
+## Arcnix AI矩阵
 
-BASETEC拥有多种AGC服务：AI聊天、AI搜索、API开放平台、AI翻译、AI音频/图像/视频创作等服务。
+Arcnix拥有多种AGC服务：AI聊天、AI搜索、API开放平台、AI翻译、AI音频/图像/视频创作等服务。
 
-BASETEC提供专业的AGC落地解决方案，同时致力于AI技术的普及和推广，并为用户提供一定的公益服务。
+Arcnix提供专业的AGC落地解决方案，同时致力于AI技术的普及和推广，并为用户提供一定的公益服务。
 
-<!-- X-Chat是BASETEC旗下基于人工智能大语言模型的聊天助手应用。同时基于AI服务，为具有商用需求的企业组织、开发者及一定规模的用户提供相应的API服务及建站和商业化支持。 -->
+<!-- X-Chat是Arcnix旗下基于人工智能大语言模型的聊天助手应用。同时基于AI服务，为具有商用需求的企业组织、开发者及一定规模的用户提供相应的API服务及建站和商业化支持。 -->
 
 
 
@@ -44,9 +44,9 @@ BASETEC提供专业的AGC落地解决方案，同时致力于AI技术的普及�
 
 如贵公司有下一步宣传推广计划，请与我们联系！
 
-商务合作：business@basetec.top
+商务合作：business@arcnix.com
 
-支持及投诉：support@basetec.top
+支持及投诉：support@arcnix.com
 
 
 

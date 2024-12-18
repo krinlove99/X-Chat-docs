@@ -9,7 +9,7 @@
 - 首个AI智能语音助手版本发布
 :::
 
-AI智能语音助手搭载 `BASETEC AI` ，可在iOS平台上通过 `嘿 Siri` 的原生调用方式来使用人工智能助手。
+AI智能语音助手搭载 `Arcnix AI` ，可在iOS平台上通过 `嘿 Siri` 的原生调用方式来使用人工智能助手。
 
 AI智能语音助手可以与用户进行对话，帮助用户解决日常生活中的疑问，总结分析剪贴板的文档/网页链接，进行图像AI识别分析等。并可进一步选择将对话内容保存至备忘录或本地文件。
 
@@ -17,7 +17,7 @@ AI智能语音助手可以与用户进行对话，帮助用户解决日常生活
 
 ### 下载
 
-1. 前往[BASETEC官网-客户增值服务：https://basetec.top/openSource](https://basetec.top/openSource)
+1. 前往[Arcnix官网-客户增值服务：https://arcnix.com/openSource](https://arcnix.com/openSource)
 
 2. 选择并进入 `AI智能语音助手` 项目
 
@@ -46,7 +46,7 @@ AI智能语音助手目前只支持Apple设备进行使用，具体支持设备�
 
 ### 使用
 
-1. 服务已内置BASETEC AI官方模型 `gpt-4o-mini` ，提供快速的响应，完全免费，无需配置即可使用。
+1. 服务已内置Arcnix AI官方模型 `gpt-4o-mini` ，提供快速的响应，完全免费，无需配置即可使用。
 
 ::: warning 注意
 默认模型不支持图像识别，如需使用图像识别或使用其他模型，请参考下方教程。

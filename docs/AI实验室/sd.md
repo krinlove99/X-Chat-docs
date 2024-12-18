@@ -1,6 +1,6 @@
 # AI实验室-图像创作服务
 ::: tip AI实验室
-BASETEC-AI实验室于2024年6月26日正式推出，目前AI实验室处于测试阶段，供BASETEC注册用户免费使用。
+Arcnix-AI实验室于2024年6月26日正式推出，目前AI实验室处于测试阶段，供Arcnix注册用户免费使用。
 
 :::
 
@@ -20,62 +20,62 @@ AI实验室-图像创作服务调用云端数据接口，可以在线创作专�
     <td rowspan="22">图片生成</td>
     <td>文生图</td>
     <td><Badge type="tip" text="推荐" vertical="top" /> Flux.1</td>
-    <td>已上线，<a href="https://basetec.top/ailab/ai-sd" target="_blank">前往使用</a> </td>
+    <td>已上线，<a href="https://arcnix.com/ailab/ai-sd" target="_blank">前往使用</a> </td>
   </tr>
   <tr>
     <td>文生图</td>
     <td><Badge type="tip" text="推荐" vertical="top" /> stabilityai/stable-diffusion-3-medium</td>
-    <td>已上线，<a href="https://basetec.top/ailab/ai-sd" target="_blank">前往使用</a> </td>
+    <td>已上线，<a href="https://arcnix.com/ailab/ai-sd" target="_blank">前往使用</a> </td>
   </tr>
    <tr>
     <td>文生图</td>
     <td><Badge type="tip" text="推荐" vertical="top" />  SD1X多模型聚合</td>
-    <td>已上线，<a href="https://basetec.top/ailab/ai-sd" target="_blank">前往使用</a> </td>
+    <td>已上线，<a href="https://arcnix.com/ailab/ai-sd" target="_blank">前往使用</a> </td>
   </tr>
   <tr>
     <td>文生图</td>
     <td><Badge type="tip" text="推荐" vertical="top" />  stabilityai/realvisxlV40</td>
-    <td>已上线，<a href="https://basetec.top/ailab/ai-sd" target="_blank">前往使用</a> </td>
+    <td>已上线，<a href="https://arcnix.com/ailab/ai-sd" target="_blank">前往使用</a> </td>
   </tr>
   <tr>
     <td>文生图</td>
     <td><Badge type="tip" text="推荐" vertical="top" /> stabilityai/realismEngine_v10</td>
-    <td>已上线，<a href="https://basetec.top/ailab/ai-sd" target="_blank">前往使用</a> </td>
+    <td>已上线，<a href="https://arcnix.com/ailab/ai-sd" target="_blank">前往使用</a> </td>
   </tr>
   <tr>
     <td>文生图</td>
     <td>stabilityai/juggernautXL_v45</td>
-    <td>已上线，<a href="https://basetec.top/ailab/ai-sd" target="_blank">前往使用</a> </td>
+    <td>已上线，<a href="https://arcnix.com/ailab/ai-sd" target="_blank">前往使用</a> </td>
   </tr>
   <tr>
     <td>文生图</td>
     <td><Badge type="tip" text="推荐" vertical="top" /> stabilityai/dreamshaperXL10_alpha2</td>
-    <td>已上线，<a href="https://basetec.top/ailab/ai-sd" target="_blank">前往使用</a> </td>
+    <td>已上线，<a href="https://arcnix.com/ailab/ai-sd" target="_blank">前往使用</a> </td>
   </tr>
   <tr>
     <td>文生图</td>
     <td>stabilityai/animagineXLV3_v30</td>
-    <td>已上线，<a href="https://basetec.top/ailab/ai-sd" target="_blank">前往使用</a> </td>
+    <td>已上线，<a href="https://arcnix.com/ailab/ai-sd" target="_blank">前往使用</a> </td>
   </tr>
   <tr>
     <td>文生图</td>
     <td>stabilityai/devlishphotorealism_sdxl15</td>
-    <td>已上线，<a href="https://basetec.top/ailab/ai-sd" target="_blank">前往使用</a> </td>
+    <td>已上线，<a href="https://arcnix.com/ailab/ai-sd" target="_blank">前往使用</a> </td>
   </tr>
   <tr>
     <td>文生图</td>
     <td>stabilityai/sd_xl_base_1.0</td>
-    <td>已上线，<a href="https://basetec.top/ailab/ai-sd" target="_blank">前往使用</a> </td>
+    <td>已上线，<a href="https://arcnix.com/ailab/ai-sd" target="_blank">前往使用</a> </td>
   </tr>
   <tr>
     <td>文生图</td>
     <td>stabilityai/sd_xl_base_1.0_inpainting_0.1</td>
-    <td>已上线，<a href="https://basetec.top/ailab/ai-sd" target="_blank">前往使用</a> </td>
+    <td>已上线，<a href="https://arcnix.com/ailab/ai-sd" target="_blank">前往使用</a> </td>
   </tr>
   <tr>
     <td>文生图</td>
     <td>stabilityai/turbovisionXL_v431</td>
-    <td>已上线，<a href="https://basetec.top/ailab/ai-sd" target="_blank">前往使用</a> </td>
+    <td>已上线，<a href="https://arcnix.com/ailab/ai-sd" target="_blank">前往使用</a> </td>
   </tr>
   <!-- <tr>
     <td>文生图</td>
@@ -100,17 +100,17 @@ AI实验室-图像创作服务调用云端数据接口，可以在线创作专�
   <tr>
     <td>图生图</td>
     <td>stabilityai/sd-2.1</td>
-    <td>已上线，<a href="https://basetec.top/ailab/ai-sd" target="_blank">前往使用</a> </td>
+    <td>已上线，<a href="https://arcnix.com/ailab/ai-sd" target="_blank">前往使用</a> </td>
   </tr>
   <!-- <tr>
     <td>图生图</td>
     <td>stabilityai/sd-XL Lighting</td>
-    <td>已上线，<a href="https://basetec.top/ailab/ai-sd" target="_blank">前往使用</a> </td>
+    <td>已上线，<a href="https://arcnix.com/ailab/ai-sd" target="_blank">前往使用</a> </td>
   </tr> -->
   <tr>
     <td>图生图</td>
     <td>stabilityai/sd-XL</td>
-    <td>已上线，<a href="https://basetec.top/ailab/ai-sd" target="_blank">前往使用</a> </td>
+    <td>已上线，<a href="https://arcnix.com/ailab/ai-sd" target="_blank">前往使用</a> </td>
   </tr>
   <!-- <tr>
     <td>图生图</td>

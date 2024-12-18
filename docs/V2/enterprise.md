@@ -1,6 +1,6 @@
 # API开放平台
 
-BASETEC AI  `API开放平台` 主要为企业、组织、开发者及个人用户提供可靠、快速、高质量的大模型聊天API-Key服务。用户可以获取自己的APIKey，并在自己或互联网提供的聊天客户端中调用我们的API，开发者也可以将服务接入自己的应用程序、网站服务。详见[BASETEC AI(商业版)](https://basetec.top/apiindex)。
+Arcnix AI  `API开放平台` 主要为企业、组织、开发者及个人用户提供可靠、快速、高质量的大模型聊天API-Key服务。用户可以获取自己的APIKey，并在自己或互联网提供的聊天客户端中调用我们的API，开发者也可以将服务接入自己的应用程序、网站服务。详见[Arcnix AI(商业版)](https://arcnix.com/apiindex)。
 
 ##### 特色：
 
@@ -54,14 +54,14 @@ BASETEC AI  `API开放平台` 主要为企业、组织、开发者及个人用�
 ::: tip 
 我们提供配套的AI聊天网站，无需登录，只需要填入在API开放平台获得的API-Key即可畅享AI聊天服务。同时企业、组织也可以通过API开放平台灵活地发放和售卖API-Key。
 
-- 具备快捷管理功能： [https://basetec.top/xchatv2](https://basetec.top/xchatv2)
+- 具备快捷管理功能： [https://arcnix.com/xchatv2](https://arcnix.com/xchatv2)
 
-- 无明显品牌标识版本：[https://v2.basetec.top](https://v2.basetec.top)
+- 无明显品牌标识版本：[https://v2.arcnix.com](https://v2.arcnix.com)
 :::
 
-BASETEC 为 API开放平台上线了配套使用的聊天客户端，可以同时进行一站式聊天与令牌基础管理。
+Arcnix 为 API开放平台上线了配套使用的聊天客户端，可以同时进行一站式聊天与令牌基础管理。
 
-地址：[https://basetec.top/xchatv2](https://basetec.top/xchatv2)
+地址：[https://arcnix.com/xchatv2](https://arcnix.com/xchatv2)
 
 用户可以点击页面菜单栏的 `可用余额` 来查看当前会员信息及额度信息等基础内容，如下：
 
@@ -70,7 +70,7 @@ BASETEC 为 API开放平台上线了配套使用的聊天客户端，可以同�
 
 ## 购买额度
 
-购买额度：[点此前往](https://shop.basetec.top)。
+购买额度：[点此前往](https://shop.arcnix.com)。
 
 
 ## X-Chat V2 聊天记录云同步
