@@ -2,7 +2,7 @@
 
 AI实验室是基于 `Arcnix AI` 的服务聚合中心，为用户提供丰富的AI服务，如AI聊天；AI搜索；AI视频创作、图片创作、音乐创作；AI语音生成、音色克隆、照片修复等内容。
 
-![AI实验室](/source/ailab.png)
+![AI实验室](/source/ailab2.png)
 
 ### 使用方式
 
