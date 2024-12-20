@@ -26,15 +26,15 @@ hero:
 ![Arcnix 徽标](/images/basetec_cir.png)
 </div> -->
 
-## Arcnix AI矩阵
+## Arcnix AI
 
-Arcnix拥有多种AGC服务：AI聊天、AI搜索、API开放平台、AI翻译、AI音频/图像/视频创作等服务。
-
-Arcnix提供专业的AGC落地解决方案，同时致力于AI技术的普及和推广，并为用户提供一定的公益服务。
+Arcnix拥有多种AGC服务：AI聊天、AI搜索、AI翻译、AI音频/图像/视频创作等服务，对注册用户提供免费/付费的AGC服务。
 
 <!-- X-Chat是Arcnix旗下基于人工智能大语言模型的聊天助手应用。同时基于AI服务，为具有商用需求的企业组织、开发者及一定规模的用户提供相应的API服务及建站和商业化支持。 -->
 
+## ArcnixAI Cloud
 
+ArcnixAI Cloud是Arcnix AI面向企业、组织、开发者的API调用开放平台。同时Arcnix提供专业的AGC落地解决方案，致力于AI技术的普及和推广。
 
 ## 合作声明
 

@@ -21,7 +21,7 @@ export default defineConfig({
           { text: '⚡AI实验室', link: '/快速使用/AI实验室' },
           { text: '⚡X-Chat AI聊天助手', link: '/快速使用/X-Chat V3 聊天助手' },
           { text: '会员订阅', link: '/快速使用/price' },
-          { text: 'API开放平台', link: '/快速使用/企业合作' },
+          { text: 'ArcnixAI Cloud', link: '/快速使用/企业合作' },
         ],
       },
       {
@@ -45,7 +45,7 @@ export default defineConfig({
         ],
       },
       {
-        text: 'Arcnix AI(商业版)',
+        text: 'ArcnixAI Cloud(商业版)',
         items: [
           { text: 'API开放平台', link: '/V2/enterprise' },
           { text: 'API调用支持模型', link: '/V2/V2 模型介绍' },
