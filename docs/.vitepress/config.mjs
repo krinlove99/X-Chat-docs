@@ -25,7 +25,7 @@ export default defineConfig({
         ],
       },
       {
-        text: 'X-Chat AI聊天',
+        text: 'AI实验室：AI对话',
         items: [
           { text: '客户端简介', link: '/V3/V3 客户端功能' },
           { text: '模型介绍', link: '/V3/V3 模型介绍' },
@@ -45,12 +45,18 @@ export default defineConfig({
         ],
       },
       {
-        text: 'ArcnixAI Cloud(商业版)',
+        text: 'ArcnixAI Cloud',
         items: [
           { text: 'API开放平台', link: '/V2/enterprise' },
-          { text: 'API调用支持模型', link: '/V2/V2 模型介绍' },
+          { text: 'API调用支持模型', link: '/V2/model' },
           { text: '进阶功能', link: '/V2/V2 模型进阶功能' },
           { text: '错误故障汇总', link: '/V2/V2 错误故障汇总' },
+        ],
+      },
+      {
+        text: '合作与服务',
+        items: [
+          { text: '服务介绍', link: '/bussiness/enterprise' },
         ],
       },
       {
