@@ -1,25 +1,23 @@
 # 端点调用
 
-## X-Chat V2
-
 ### 基本参数
 
 | 参数  | 值  |
 |---|---|
-|BaseUrl   | https://proxy.rntec.top  |
-|api_key   | 前往[V2-API授权中心](https://proxy.rntec.top)申请  |
+|BaseUrl   | https://proxy.arcnix.com  |
+|api_key   | 前往 [API开放平台(AI聊天大模型)](https://proxy.arcnix.com) 申请  |
 
-*出于与 OpenAI 兼容考虑，您也可以根据您的客户端，将 base_url 设置为 https://proxy.rntec.top/v1 来使用。
+出于兼容考虑，您也可以根据您的客户端，将 base_url 设置为 https://proxy.arcnix.com/v1 来使用。
 
 ### 调用对话 API
-在创建 API key 之后，你可以使用以下样例脚本的来访问 X-Chat V2 API。样例为非流式输出，您可以将 stream 设置为 true 来使用流式输出。
+在创建 API key 之后，你可以使用以下样例脚本的来调用API。样例为非流式输出，您可以将 stream 设置为 true 来使用流式输出。
 
 ```bash
-curl https://proxy.rntec.top/v1/chat/completions \
+curl https://proxy.arcnix.com/v1/chat/completions \
   -H "Content-Type: application/json" \
   -H "Authorization: Bearer $api_key" \
   -d '{
-        "model": "gpt-3.5-turbo",
+        "model": "gpt-4o-mini",
         "messages": [
           {"role": "system", "content": "You are a helpful assistant."},
           {"role": "user", "content": "Hello!"}
@@ -32,10 +30,10 @@ curl https://proxy.rntec.top/v1/chat/completions \
 # Please install OpenAI SDK first：`pip3 install openai`
 from openai import OpenAI
 
-client = OpenAI(api_key="<api key>", base_url="https://proxy.rntec.top")
+client = OpenAI(api_key="<api key>", base_url="https://proxy.arcnix.com")
 
 response = client.chat.completions.create(
-    model="gpt-3.5-turbo",
+    model="gpt-4o-mini",
     messages=[
         {"role": "system", "content": "You are a helpful assistant"},
         {"role": "user", "content": "Hello"},
@@ -54,14 +52,14 @@ token 是模型用来表示自然语言文本的基本单位，也是我们的�
 - 1 个英文字符 ≈ 0.3 个 token。
 - 1 个中文字符 ≈ 0.6 个 token。
 
-但因为不同模型的分词不同，所以换算比例也存在差异，每一次实际处理 token 数量以模型返回为准，您可以从返回结果的 usage 中查看。
+但因为不同模型的分词不同，所以换算比例也存在差异，每一次实际处理 token 数量以模型返回为准，您可以从返回结果的 usage 中查看，计算方式详见《模型介绍》。
 
 ### 错误码
-您在调用 X-Chat V2/V3 API 时，可能会遇到以下错误。这里列出了相关错误的原因及其解决方法。
+您在调用 API 时，可能会遇到以下错误。这里列出了相关错误的原因及其解决方法。
 
 |错误码  | 描述  |
 |---|---|
-|400 - 格式错误|原因：请求体格式错误<br/>解决方法：请根据错误信息提示修改请求体|
+|400 - 格式错误|原因：请求体格式错误/违禁词<br/>解决方法：请根据错误信息提示修改请求体|
 |401 - 认证失败|原因：API key 错误，认证失败<br>解决方法：请检查您的 API key 是否正确，如没有 API key，请先创建API key|
 |422 - 参数错误|原因：请求体参数错误<br/>解决方法：请根据错误信息提示修改相关参数|
 |429 - 请求速率达到上限|原因：请求速率（TPM 或 RPM）达到上限<br/>解决方法：请合理规划您的请求速率，建议您临时切换到其它模型使用|

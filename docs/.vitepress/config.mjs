@@ -48,9 +48,8 @@ export default defineConfig({
         text: 'ArcnixAI Cloud',
         items: [
           { text: 'API开放平台', link: '/V2/enterprise' },
-          { text: 'API调用支持模型', link: '/V2/model' },
-          { text: '进阶功能', link: '/V2/V2 模型进阶功能' },
-          { text: '错误故障汇总', link: '/V2/V2 错误故障汇总' },
+          { text: '模型介绍', link: '/V2/model' },
+          { text: '端点调用', link: '/develop/point' },
         ],
       },
       {
