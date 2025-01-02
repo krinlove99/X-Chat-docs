@@ -17,13 +17,11 @@ AI智能语音助手可以与用户进行对话，帮助用户解决日常生活
 
 ### 下载
 
-1. 前往[Arcnix官网-客户增值服务：https://arcnix.com/openSource](https://arcnix.com/openSource)
+1. 前往[Arcnix官网-客户增值服务-AI智能语音助手](https://arcnix.com/showOpenSource?id=3)
 
-2. 选择并进入 `AI智能语音助手` 项目
+2. 根据提示进行下载
 
-3. 根据提示进行下载
-
-4. 在App Store中安装Apple官方应用 `快捷指令`
+3. 在App Store中安装Apple官方应用 `快捷指令`
 
 ::: tip 注意
 AI智能语音助手目前只支持Apple设备进行使用，具体支持设备如下：
@@ -46,7 +44,7 @@ AI智能语音助手目前只支持Apple设备进行使用，具体支持设备�
 
 ### 使用
 
-1. 服务已内置Arcnix AI官方模型 `gpt-4o-mini` ，提供快速的响应，完全免费，无需配置即可使用。
+1. 服务已内置Arcnix AI 官方模型 `gpt-4o-mini` ，提供快速的响应，完全免费，无需配置即可使用。
 
 ::: warning 注意
 默认模型不支持图像识别，如需使用图像识别或使用其他模型，请参考下方教程。

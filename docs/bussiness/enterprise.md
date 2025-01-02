@@ -1,6 +1,14 @@
-# API开放平台
+# 《企业AGC出海计划》
 
-<strong style="color: #007BFF; font-size:15px;font-weight: bold; background-color: #f0f8ff; border: 1px solid #add8e6; padding: 2px 5px; border-radius: 3px;"> ArcnixAI Cloud <sup style="font-size: 0.8em;">&copy;</sup></strong>   API开放平台主要为企业、组织、开发者及个人用户提供可靠、快速、高质量的AI API调用服务。用户可以获取自己的APIKey，并在自己或互联网提供的聊天客户端中调用我们的API，开发者也可以将服务接入自己的应用程序、网站服务。详见[ArcnixAI Cloud](https://arcnix.com/apiindex)。
+::: info 公告
+ArcnixAI于2024年8月1日起推出《企业AGC出海计划》服务支持，帮助企业/组织/用户搭建自己的AI全服务平台，包括人工智能大模型聊天、专业AGC图片音频视频创作等服务。
+
+我们为有合作意向的用户、组织、企业提供定制化版本，你可以独立开展贵组织业务而无需经过Arcnix。
+
+详情请咨询 `business@Arcnix.com` 。
+:::
+
+<strong style="color: #007BFF; font-size:12px;font-weight: bold; background-color: #f0f8ff; border: 1px solid #add8e6; padding: 2px 5px; border-radius: 3px;"> ArcnixAI Cloud <sup style="font-size: 0.8em;">&copy;</sup></strong>   API开放平台主要为企业、组织、开发者及个人用户提供可靠、快速、高质量的AI API调用服务。用户可以获取自己的APIKey，并在自己或互联网提供的聊天客户端中调用我们的API，开发者也可以将服务接入自己的应用程序、网站服务。详见[ArcnixAI Cloud](https://arcnix.com/apiindex)。
 
 
 
@@ -15,22 +23,6 @@
 - 提供功能强大且简洁易用的UI使用终端，并提供专属品牌定制化
 
 
-## API开放平台（AI聊天大模型）
-
-![API开放平台（AI聊天大模型）](/source/apiv5.png)
-
- `API开放平台（AI聊天大模型）` 平台专用于AI对话大模型的管理操作，包括：
-- 令牌分发管理
-- 额度管理
-- 可用模型管理
-- 日志统计与查看
-- 账户操作
-
-平台同时为二次售卖的用户提供了审计的功能，便于进行管理。
-
-::: info 注意
-该版本为所有用户免费提供，仅支持基础大模型API调用服务、令牌管理服务及日志审计服务。
-:::
 
 ## API开放平台——合作定制版
 
@@ -44,69 +36,141 @@
 - 团队、内部用户、终端用户等多种用户管理形式
 
 ::: info 注意
-该版本仅支持代搭建、代运营商业合作。不提供面向用户的免搭建API调用服务。
+该版本仅支持代搭建、代运营商业合作。
 :::
 
+## AI聊天客户端 搭建&定制化
+
+Arcnix提供 `AI聊天客户端-弱品牌标识版本` 搭建服务，即：
+
+- 不含Arcnix品牌标识
+
+- 自定义更换你的品牌标识
+
+- 自定义界面样式
 
 
+::: tip 如何选择？
 
+在购买API开放平台的服务（详询）后，Arcnix 可免费帮助客户搭建基础AI聊天客户端，不含定制选项。需自备服务器及域名或由 Arcnix 代为采购。具体可提供以下两种方案：
 
-## 查看剩余额度及兑换额度
+- 令牌发卡制：通过为用户售卖卡密来使用AI聊天服务，无需登录，输入API-Key即可开始聊天。无需支付费用。
 
-::: tip 
-我们提供配套的AI聊天网站，无需登录，只需要填入在API开放平台获得的API-Key即可畅享AI聊天服务。同时企业、组织也可以通过API开放平台灵活地发放和售卖API-Key。
-
-- 具备快捷管理功能： [https://arcnix.com/xchatv2](https://arcnix.com/xchatv2)
-
-- 无明显品牌标识版本：[https://v2.arcnix.com](https://v2.arcnix.com)
+- 私域会员系统制：可接入贵组织的客户体系中，采用账户余额制。需要支付一次性搭建及调试费用。
 :::
 
-Arcnix 为 API开放平台上线了配套使用的聊天客户端，可以同时进行一站式聊天与令牌基础管理。
+## AI实验室图片音视频创作服务 搭建&定制化
 
-地址：[https://arcnix.com/xchatv2](https://arcnix.com/xchatv2)
+图片、音频、视频创作服务均可以单独或混合选择，并提供UI定制化服务。除API渠道来自于ArcnixAI Cloud以外，可作为单独的网站业务并由贵组织独立运营，与Arcnix没有其他联系。也可以单独使用ArcnixAI Cloud的API接入服务。
 
-用户可以点击页面菜单栏的 `可用余额` 来查看当前会员信息及额度信息等基础内容，如下：
+由于需要使用来自于 <strong style="color: #007BFF; font-size:12px;font-weight: bold; background-color: #f0f8ff; border: 1px solid #add8e6; padding: 2px 5px; border-radius: 3px;"> Arcnix <sup style="font-size: 0.8em;">&copy;</sup></strong> 的知识产权，因此需要支付一定的授权费用。
 
-![额度](/source/quota.png)
+## AI搜索 搭建&定制化
 
+提供定制化UI及品牌标识，由贵组织独立运营该搜索引擎，与Arcnix没有联系。需自备服务器及域名或由 Arcnix 代为采购，需要支付一次性搭建及调试费用。
 
-## 购买额度
-
-购买额度：[点此前往](https://shop.arcnix.com)。
-
-
-## X-Chat V2 聊天记录云同步
-
-### 主要特性：
-1. 由 `X-Chat官方` 提供云服务，用户可以直接使用。拥有极快的同步速度，同时不限制同步设备数；
-
-2. 采用 `WebDev协议` ，用户聊天数据经过多重加密。X-Chat官方不存储用户隐私数据。如想了解更多细节，请在X-Chat中询问您的智能助手；
-
-3. 实时、无感知同步数据，多台设备的数据实时在话题记录中显示，无需刷新页面，保证用户使用体验；
-
-4. 同步后，在原有记录基础上进行合并，不会覆盖原有记录；
+## 具体业务范围
 
 
-### 注意事项：
-1. 用户需要在 `X-Chat V2` 版本使用；
+<div>
+<table>
+  <tr>
+    <th>类别</th>
+    <th>服务名称</th>
+    <th>在线体验</th>
+  </tr>
+  <tr>
+    <td>AI聊天</td>
+    <td>提供全球所有大模型，型号详见上方文档介绍
 
-2. 为了彻底地保护用户隐私，用户的聊天数据将不会存储在X-Chat的服务器，在同步时也不会经过X-Chat，因此在同步时需要注意：
 
-   在 `A设备` 使用后，如果想在 `B设备` 同步聊天记录，在同步时需要保证 `A设备` 和 `B设备` 的 `X-Chat聊天客户端` 均处于**打开**状态。两台以上设备进行同步同理。
-:::tip 提示
-你可以理解为只可以在线点对点传输数据，这种方法保证了用户隐私数据在同步过程中只会经过用户这几台设备。
-:::
+</td>
+<td>
+
+[X-Chat V2 ：https://arcnix.com/xchatv2](https://arcnix.com/xchatv2)
+
+[X-Chat V3 ：https://arcnix.com/ailab/ai-chat)](https://arcnix.com/ailab/ai-chat)
+</td>
+  </tr>
+  <tr>
+    <td rowspan="3">AGC</td>
+    <td>AI图片创作服务，型号详见下方文档介绍</td>
+<td >
+
+[AI实验室](https://arcnix.com/ailab/index)
+
+</td>
+
+  </tr>
+  <tr>
+    <td>AI音频创作服务，型号详见下方文档介绍</td>
+     <td>
+
+[AI实验室](https://arcnix.com/ailab/index)
+
+</td>
+  </tr>
+  <tr>
+    <td>AI视频创作服务，型号详见下方文档介绍</td>
+     <td>
+     
+[AI实验室](https://arcnix.com/ailab/index)
+
+</td>
+  </tr>
+   <tr>
+    <td >实验性功能</td>
+    <td>AI搜索定制化开发</td>
+<td>
+
+[X-AI搜索：https://xs.arcnix.com](https://xs.arcnix.com)
+</td>
+  </tr>
+    <tr>
+    <td rowspan="3">AI相关架构部署开发</td>
+    <td>面向数据库的AI应用开发</td>
+     <td>请与我们联系并获取demo：business@arcnix.com</td>
+  </tr>
+  <tr>
+    <td>私有知识库搭建开发</td>
+     <td>请与我们联系并获取demo：business@arcnix.com</td>
+  </tr>
+   <tr>
+    <td>RAG微调及训练</td>
+     <td>请与我们联系并获取demo：business@arcnix.com</td>
+  </tr>
+  <tr>
+    <td rowspan="3">平台开发</td>
+    <td>AI聊天客户端定制化开发</td>
+     <td>请与我们联系并获取demo：business@arcnix.com</td>
+  </tr>
+  <tr>
+    <td>AGC创作服务UI可视化开发</td>
+     <td>请与我们联系并获取demo：business@arcnix.com</td>
+  </tr>
+
+  <tr>
+    <td>官网融合开发</td>
+     <td>请与我们联系并获取demo：business@arcnix.com</td>
+  </tr>
+  <tr>
+    <td>运维</td>
+    <td>系统稳定性运维、技术支持、模型维护</td>
+     <td>请与我们联系并获取demo：business@arcnix.com</td>
+  </tr>
+</table>
+</div>
 
 
-### 使用方法：
-1. 进入X-Chat V2站点；
 
-2. 点击左上角 `同步未开启` ，点击 `配置同步参数` ；
 
-![配置同步](/source/4.png)
+## 其他服务
 
-3. 在打开的页面中，在上方设备信息中可以设置 `本设备名称` （选填），在 `同步频道名称` 中输入一个你自定义的用户名，在 `同步频道密码` 中填写你要设置的密码。输入完成后勾选 `开启同步` 按钮；
+除以上定制化服务外，我们还提供以下付费服务：
 
-![配置同步](/source/5.png)
+- 代部署、长期代维护
+- 模型渠道支持
 
-4. 成功登录后，你可以在聊天页面左上角中看到当前设备在线列表及同步状态。
+## 您的准备
+
+您不需要任何前期准备，所有流程均可由Arcnix技术专员负责，您无需掌握技术或聘用技术人员。现在就向Arcnix发起咨询：`business@arcnix.com`

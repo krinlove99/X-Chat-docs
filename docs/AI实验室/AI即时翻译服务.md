@@ -7,7 +7,7 @@
 
 随着人工智能技术的不断发展，AI对于语言领域的识别同样是发展迅猛。
 
-`沉浸式翻译`（该工具软件来自于网络，非本站提供）结合 `Arcnix` 的人工智能翻译接口，能让你以母语者水平轻易阅读外文资料。
+`沉浸式翻译`（该工具软件来自于网络，非本站提供）结合 <strong style="color: #007BFF; font-size:12px;font-weight: bold; background-color: #f0f8ff; border: 1px solid #add8e6; padding: 2px 5px; border-radius: 3px;"> ArcnixAI Cloud <sup style="font-size: 0.8em;">&copy;</sup></strong> 的人工智能翻译接口，能让你以母语者水平轻易阅读外文资料。
 
 ### 特色
 
@@ -20,15 +20,11 @@
 
 ### 使用方式
 
-::: tip 说明
-Arcnix为所有注册用户提供免费的接口。
-:::
-
 1. 搜索沉浸式翻译官网，或点击此链接前往沉浸式翻译官网：[https://immersivetranslate.com](https://immersivetranslate.com)，按照说明安装浏览器插件；
 
 2. 从 `Arcnix` 获取 `沉浸式翻译API接口` 。
 
-具体方法：前往[Arcnix官网](https://arcnix.com)，注册账户（与X-Chat用户信息互通，如已注册可直接登录），点击导航栏的 `项目` / `工单支持` ，找到 `沉浸式翻译接口API接口权限申请` ，按提示获取。
+具体方法：前往[Arcnix官网](https://arcnix.com)，注册账户，点击导航栏的 `项目` / `工单支持` ，找到 `API接口权限申请` ，按提示获取。[点此快速前往](https://arcnix.com/showOrder?id=4)
 
 3. 进入沉浸式翻译设置，如下图；
 

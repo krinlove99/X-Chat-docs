@@ -34,7 +34,7 @@ Arcnix拥有多种AGC服务：AI聊天、AI搜索、AI翻译、AI音频/图像/�
 
 ## ArcnixAI Cloud
 
-ArcnixAI Cloud是Arcnix AI面向企业、组织、开发者的API调用开放平台。同时Arcnix提供专业的AGC落地解决方案，致力于AI技术的普及和推广。
+<strong style="color: #007BFF; font-size:12px;font-weight: bold; background-color: #f0f8ff; border: 1px solid #add8e6; padding: 2px 5px; border-radius: 3px;"> ArcnixAI Cloud <sup style="font-size: 0.8em;">&copy;</sup></strong> 是Arcnix AI面向企业、组织、开发者的API调用开放平台。同时Arcnix提供专业的AGC落地解决方案，致力于AI技术的普及和推广。
 
 ## 合作声明
 

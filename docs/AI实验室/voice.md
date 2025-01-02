@@ -1,6 +1,6 @@
 # AI实验室-语音创作服务
 ::: tip AI实验室
-Arcnix-AI实验室于2024年6月26日正式推出，目前AI实验室处于测试阶段，供Arcnix注册用户免费使用。
+<strong style="color: #007BFF; font-size:12px;font-weight: bold; background-color: #f0f8ff; border: 1px solid #add8e6; padding: 2px 5px; border-radius: 3px;"> Arcnix AI实验室 <sup style="font-size: 0.8em;">&copy;</sup></strong> 于2024年6月26日正式推出，目前AI实验室处于测试阶段，供Arcnix注册用户免费使用。
 
 :::
 

@@ -184,14 +184,14 @@ lastUpdated: true
   </tr>
   <tr>
     <td rowspan="1">月之暗面</td>
-    <td>moonshot-v1-32k</td>
+    <td>moonshot-Alltools</td>
     <td>1</td>
     <td>1</td>
     <td></td>
   </tr>
   <tr>
    <td rowspan="1">跃问</td>
-    <td>step</td>
+    <td>step-Alltools</td>
     <td>1</td>
     <td>1</td>
     <td></td>

@@ -65,12 +65,12 @@ export default defineConfig({
         
         ],
       },
-      {
-        text: '开发者支持',
-        items: [
-          { text: '端点调用', link: '/develop/point' },
-        ],
-      },
+      // {
+      //   text: '开发者支持',
+      //   items: [
+      //     { text: '端点调用', link: '/develop/point' },
+      //   ],
+      // },
     ],
     footer: {
 
