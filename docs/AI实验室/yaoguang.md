@@ -79,7 +79,7 @@ AI实验室-摇光智媒由[ArcnixAI Cloud](../V2/enterprise.md)提供支持，�
 
 点击右上角齿轮设置按钮，如果用户输入的Key具有管理员权限，则会显示管理员入口，并可以分发新的Key。
 
-![AI实验室](/source/yaoguang/6.png)
+![AI实验室](/source/yaoguang/7.png)
 
 也可以查看自己分发的所有Key的状态。
 
